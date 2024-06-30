@@ -1,0 +1,58 @@
+your vehicle insurance quote
+
+#9695
+
+tricentis.com support.tricentis.com sampleapp.tricentis.com
+
+INSURANT DATA First Name: Silvia
+Gender: Street Address:
+
+Last Name: Silver Country: Maldives
+
+Birthdate: 1/1/2006
+
+ZIP: 123456
+
+City:
+
+Occupation: Employee
+
+VEHICLE DATA
+
+Vehicle Type: Make: Model: Engine Performance [kW]: Cylinder Capacity [ccm]: Date of Manufacture: Number of Seats: Fuel Type: Payload [kg]: Total Weight [kg]: List Price [$]: Annual Mileage [mi]:
+
+Nissan
+3/4/2000 7 Gas
+50000 100
+
+PRODUCT DATA Start Date: 12/11/2024
+
+Insurance Sum [$]: 3000000
+
+Courtesy Car: Yes
+
+Merit Rating: Malus 15
+
+Legal Defense Insurance:
+
+Euro Protection: Yes
+
+Damage Insurance: No Coverage
+
+Price Option: Ultimate
+
+PRICING
+
+.
+4,551.00$ p.a.
+Subject to 10% v.a.t. added to the given amount. 40% Upon Agreement - 60% Upon Delivery
+
+SIGNATURE
+Powered by TCPDF (www.tcpdf.org)
+
+Date:
+1 / 1
+
+Signee:
+
+
