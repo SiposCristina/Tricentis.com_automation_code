@@ -1,0 +1,58 @@
+your vehicle insurance quote
+
+#6323
+
+tricentis.com support.tricentis.com sampleapp.tricentis.com
+
+INSURANT DATA First Name: Silvia
+Gender: Street Address:
+
+Last Name: Silver Country: United Kingdom
+
+Birthdate: 1/1/2006
+
+ZIP: 123456
+
+City:
+
+Occupation: Farmer
+
+VEHICLE DATA
+
+Vehicle Type: Make: Model: Engine Performance [kW]: Cylinder Capacity [ccm]: Date of Manufacture: Number of Seats: Fuel Type: Payload [kg]: Total Weight [kg]: List Price [$]: Annual Mileage [mi]:
+
+Mazda
+2/1/2024 2 Petrol
+50000 100000
+
+PRODUCT DATA Start Date: 12/11/2024
+
+Insurance Sum [$]: 25000000
+
+Courtesy Car: Yes
+
+Merit Rating: Bonus 1
+
+Legal Defense Insurance:
+
+Euro Protection: Yes
+
+Damage Insurance: Full Coverage
+
+Price Option: Silver
+
+PRICING
+
+.
+629.00$ p.a.
+Subject to 10% v.a.t. added to the given amount. 40% Upon Agreement - 60% Upon Delivery
+
+SIGNATURE
+Powered by TCPDF (www.tcpdf.org)
+
+Date:
+1 / 1
+
+Signee:
+
+
