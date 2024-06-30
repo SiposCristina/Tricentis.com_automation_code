@@ -1,0 +1,299 @@
+Test_ID	Make	kW	Date_Manufacture	Seats	Fuel	List_Price	Mileage	Birth_Date	Occupation	Hobbies	Insurance_Sum	Merit_Rating	Damage_Insurance	Optional_Products	Courtesy_Car	
+1	BMW	500	2/1/1982	1	Petrol	90000	100	1/1/2006	Swaziland	Employee	Bungee Jumping	35000000	Super Bonus	Partial Coverage	Euro Protection	Yes
+2	BMW	800	3/4/2000	2	Diesel	500	100000	8/8/1954	Oman	Public Official	Cliff Diving	3000000	Bonus 1	Full Coverage	Legal Defense Insurance	No
+3	BMW	2000	2/1/1982	5	Other	600	100000	1/1/2006	Romania	Public Official	Cliff Diving	10000000	Bonus 4	Full Coverage	Euro Protection	Yes
+4	BMW	1000	3/4/2000	6	Petrol	90000	60000	8/8/1954	Cuba	Farmer	Skydiving	15000000	Bonus 5	No Coverage	Legal Defense Insurance	No
+5	BMW	500	4/4/2022	7	Diesel	500	100	1/1/2006	United States	Unemployed	Other	20000000	Bonus 6	Partial Coverage	Euro Protection	Yes
+6	BMW	800	2/1/2024	8	Electric Power	600	100000	8/8/1954	United Kingdom	Selfemployed	Speeding	25000000	Bonus 7	Full Coverage	Legal Defense Insurance	No
+7	BMW	1567	2/1/1982	9	Petrol	90000	60000	1/1/2006	Australia	Employee	Bungee Jumping	30000000	Bonus 8	No Coverage	Euro Protection	Yes
+8	BMW	1	3/4/2000	1	Diesel	500	100	8/8/1954	Canada	Public Official	Cliff Diving	35000000	Bonus 9	Partial Coverage	Legal Defense Insurance	No
+9	BMW	2000	2/1/1982	2	Electric Power	100000	100000	1/1/2006	Guatemala	Farmer	Skydiving	3000000	Malus 10	Full Coverage	Euro Protection	Yes
+10	BMW	1000	3/4/2000	3	Gas	50000	60000	8/8/1954	Japan	Unemployed	Other	5000000	Malus 11	No Coverage	Legal Defense Insurance	No
+11	Ford	800	2/1/1982	7	Gas	600	100	8/8/1954	Romania	Employee	Cliff Diving	15000000	Bonus 6	Full Coverage	Euro Protection	No
+12	Ford	1567	3/4/2000	8	Other	90000	100000	1/1/2006	Cuba	Public Official	Skydiving	20000000	Bonus 7	No Coverage	Legal Defense Insurance	Yes
+13	Ford	1	4/4/2022	9	Petrol	500	60000	8/8/1954	Romania	Farmer	Other	25000000	Bonus 8	Partial Coverage	Euro Protection	No
+14	Ford	2000	2/1/2024	1	Diesel	100000	100	1/1/2006	Cuba	Unemployed	Speeding	30000000	Bonus 9	Full Coverage	Legal Defense Insurance	Yes
+15	Ford	1000	2/1/1982	2	Electric Power	50000	100000	8/8/1954	United States	Selfemployed	Bungee Jumping	35000000	Malus 10	No Coverage	Euro Protection	No
+16	Ford	500	3/4/2000	3	Gas	600	60000	1/1/2006	United Kingdom	Employee	Cliff Diving	3000000	Malus 11	Partial Coverage	Legal Defense Insurance	Yes
+17	Ford	800	4/4/2022	4	Other	90000	100	8/8/1954	Australia	Public Official	Skydiving	5000000	Malus 12	Full Coverage	Euro Protection	No
+18	Ford	1567	2/1/2024	5	Petrol	500	100000	1/1/2006	Canada	Farmer	Other	7000000	Malus 13	No Coverage	Legal Defense Insurance	Yes
+19	Ford	1	2/1/1982	6	Diesel	600	60000	8/8/1954	Guatemala	Unemployed	Speeding	10000000	Malus 14	Partial Coverage	Euro Protection	No
+20	Ford	2000	3/4/2000	7	Electric Power	90000	100	1/1/2006	Japan	Selfemployed	Bungee Jumping	15000000	Malus 15	Full Coverage	Legal Defense Insurance	Yes
+21	Ford	1000	4/4/2022	8	Petrol	500	100000	8/8/1954	Kenya	Employee	Cliff Diving	20000000	Malus 16	No Coverage	Euro Protection	No
+22	Ford	500	2/1/2024	9	Diesel	100000	60000	1/1/2006	Maldives	Public Official	Skydiving	25000000	Malus 17	Partial Coverage	Legal Defense Insurance	Yes
+23	Ford	800	2/1/1982	1	Electric Power	50000	100	8/8/1954	Mexico	Farmer	Other	30000000	Super Bonus	Full Coverage	Euro Protection	No
+24	Ford	1567	3/4/2000	2	Gas	600	100000	1/1/2006	Panama	Unemployed	Speeding	35000000	Bonus 1	No Coverage	Legal Defense Insurance	Yes
+25	Ford	1	2/1/1982	3	Other	90000	60000	8/8/1954	Qatar	Selfemployed	Bungee Jumping	3000000	Bonus 2	Partial Coverage	Euro Protection	No
+26	Ford	2000	3/4/2000	4	Petrol	500	100	1/1/2006	Serbia	Employee	Cliff Diving	5000000	Bonus 3	Full Coverage	Legal Defense Insurance	Yes
+27	Ford	1000	4/4/2022	5	Diesel	100000	100000	8/8/1954	Swaziland	Public Official	Speeding	7000000	Bonus 4	No Coverage	Euro Protection	No
+28	Ford	500	2/1/2024	6	Electric Power	50000	60000	1/1/2006	Oman	Farmer	Bungee Jumping	10000000	Bonus 5	Partial Coverage	Legal Defense Insurance	Yes
+29	Honda	1567	4/4/2022	1	Electric Power	600	100	1/1/2006	Guatemala	Selfemployed	Cliff Diving	25000000	Super Bonus	No Coverage	Euro Protection	Yes
+30	Honda	1	2/1/2024	2	Gas	90000	100000	8/8/1954	Japan	Employee	Skydiving	30000000	Bonus 1	Partial Coverage	Legal Defense Insurance	No
+31	Honda	2000	2/1/1982	3	Other	500	60000	1/1/2006	Kenya	Public Official	Other	35000000	Bonus 2	Full Coverage	Euro Protection	Yes
+32	Honda	1000	3/4/2000	4	Petrol	600	100	8/8/1954	Maldives	Farmer	Speeding	3000000	Bonus 3	No Coverage	Legal Defense Insurance	No
+33	Honda	500	4/4/2022	5	Diesel	90000	100000	1/1/2006	Mexico	Unemployed	Bungee Jumping	5000000	Bonus 4	Partial Coverage	Euro Protection	Yes
+34	Honda	800	2/1/2024	6	Electric Power	500	60000	8/8/1954	Panama	Selfemployed	Cliff Diving	7000000	Bonus 5	Full Coverage	Legal Defense Insurance	No
+35	Honda	1567	2/1/1982	7	Petrol	100000	100	1/1/2006	Qatar	Employee	Speeding	10000000	Bonus 6	No Coverage	Euro Protection	Yes
+36	Honda	1	3/4/2000	8	Diesel	50000	100000	8/8/1954	Serbia	Public Official	Bungee Jumping	15000000	Bonus 7	Partial Coverage	Legal Defense Insurance	No
+37	Honda	2000	4/4/2022	9	Electric Power	600	60000	1/1/2006	Swaziland	Farmer	Cliff Diving	20000000	Bonus 8	Full Coverage	Euro Protection	Yes
+38	Honda	1000	2/1/2024	1	Gas	90000	100	8/8/1954	Oman	Employee	Skydiving	25000000	Bonus 9	No Coverage	Legal Defense Insurance	No
+39	Honda	500	2/1/1982	2	Other	500	100000	1/1/2006	Romania	Public Official	Other	30000000	Malus 10	Partial Coverage	Euro Protection	Yes
+40	Honda	800	3/4/2000	3	Petrol	100000	60000	8/8/1954	Cuba	Farmer	Speeding	35000000	Malus 11	Full Coverage	Legal Defense Insurance	No
+41	Honda	1567	2/1/1982	4	Diesel	50000	100	1/1/2006	Romania	Unemployed	Bungee Jumping	3000000	Malus 12	No Coverage	Euro Protection	Yes
+42	Honda	1	3/4/2000	5	Electric Power	600	100000	8/8/1954	Cuba	Selfemployed	Cliff Diving	5000000	Malus 13	Partial Coverage	Legal Defense Insurance	No
+43	Honda	2000	4/4/2022	6	Gas	90000	60000	1/1/2006	United States	Employee	Skydiving	7000000	Malus 14	Full Coverage	Euro Protection	Yes
+44	Honda	1000	2/1/2024	7	Other	500	100	8/8/1954	United Kingdom	Public Official	Other	10000000	Malus 15	No Coverage	Legal Defense Insurance	No
+45	Honda	500	2/1/1982	8	Petrol	100000	100000	1/1/2006	Australia	Farmer	Speeding	15000000	Malus 16	Partial Coverage	Euro Protection	Yes
+46	Honda	800	3/4/2000	9	Diesel	50000	60000	8/8/1954	Canada	Unemployed	Bungee Jumping	20000000	Malus 17	Full Coverage	Legal Defense Insurance	No
+47	Mazda	1	2/1/1982	4	Diesel	500	100	8/8/1954	Swaziland	Employee	Other	35000000	Malus 12	Partial Coverage	Euro Protection	No
+48	Mazda	2000	3/4/2000	5	Electric Power	100000	100000	1/1/2006	Oman	Public Official	Speeding	3000000	Malus 13	Full Coverage	Legal Defense Insurance	Yes
+49	Mazda	1000	4/4/2022	6	Petrol	50000	60000	8/8/1954	Romania	Farmer	Bungee Jumping	5000000	Malus 14	No Coverage	Euro Protection	No
+50	Mazda	500	2/1/2024	7	Diesel	600	100	1/1/2006	Cuba	Unemployed	Cliff Diving	7000000	Malus 15	Partial Coverage	Legal Defense Insurance	Yes
+51	Mazda	800	2/1/1982	8	Electric Power	90000	100000	8/8/1954	Romania	Selfemployed	Skydiving	10000000	Malus 16	Full Coverage	Euro Protection	No
+52	Mazda	1567	3/4/2000	9	Gas	500	60000	1/1/2006	Cuba	Employee	Other	15000000	Malus 17	No Coverage	Legal Defense Insurance	Yes
+53	Mazda	1	4/4/2022	1	Other	100000	100	8/8/1954	United States	Public Official	Speeding	20000000	Super Bonus	Partial Coverage	Euro Protection	No
+54	Mazda	2000	2/1/2024	2	Petrol	50000	100000	1/1/2006	United Kingdom	Farmer	Bungee Jumping	25000000	Bonus 1	Full Coverage	Legal Defense Insurance	Yes
+55	Mazda	1000	2/1/1982	3	Diesel	600	60000	8/8/1954	Australia	Unemployed	Cliff Diving	30000000	Bonus 2	No Coverage	Euro Protection	No
+56	Mazda	500	3/4/2000	4	Electric Power	90000	100	1/1/2006	Canada	Selfemployed	Skydiving	35000000	Bonus 3	Partial Coverage	Legal Defense Insurance	Yes
+57	Mazda	800	2/1/1982	5	Gas	500	100000	8/8/1954	Guatemala	Employee	Other	3000000	Bonus 4	Full Coverage	Euro Protection	No
+58	Mazda	1567	3/4/2000	6	Other	100000	60000	1/1/2006	Japan	Public Official	Speeding	5000000	Bonus 5	No Coverage	Legal Defense Insurance	Yes
+59	Mazda	1	4/4/2022	7	Petrol	50000	100	8/8/1954	Kenya	Farmer	Bungee Jumping	7000000	Bonus 6	Partial Coverage	Euro Protection	No
+60	Mazda	2000	2/1/2024	8	Diesel	600	100000	1/1/2006	Maldives	Unemployed	Cliff Diving	10000000	Bonus 7	Full Coverage	Legal Defense Insurance	Yes
+61	Mazda	1000	2/1/1982	9	Electric Power	90000	60000	8/8/1954	Mexico	Selfemployed	Speeding	15000000	Bonus 8	No Coverage	Euro Protection	No
+62	Mazda	500	3/4/2000	1	Gas	500	100	1/1/2006	Panama	Employee	Bungee Jumping	20000000	Bonus 9	Partial Coverage	Legal Defense Insurance	Yes
+63	Mazda	800	4/4/2022	2	Other	600	100000	8/8/1954	Qatar	Public Official	Cliff Diving	25000000	Malus 10	Full Coverage	Euro Protection	No
+64	Mazda	1567	2/1/2024	3	Petrol	90000	60000	1/1/2006	Serbia	Farmer	Skydiving	30000000	Malus 11	No Coverage	Legal Defense Insurance	Yes
+65	Mercedes Benz	2000	4/4/2022	7	Electric Power	500	100	1/1/2006	Australia	Selfemployed	Other	5000000	Bonus 6	Full Coverage	Euro Protection	Yes
+66	Mercedes Benz	1000	2/1/2024	8	Gas	100000	100000	8/8/1954	Canada	Employee	Speeding	7000000	Bonus 7	No Coverage	Legal Defense Insurance	No
+67	Mercedes Benz	500	2/1/1982	9	Other	50000	60000	1/1/2006	Guatemala	Public Official	Bungee Jumping	10000000	Bonus 8	Partial Coverage	Euro Protection	Yes
+68	Mercedes Benz	800	3/4/2000	1	Petrol	600	100	8/8/1954	Japan	Farmer	Cliff Diving	15000000	Bonus 9	Full Coverage	Legal Defense Insurance	No
+69	Mercedes Benz	1567	4/4/2022	2	Diesel	90000	100000	1/1/2006	Kenya	Unemployed	Speeding	20000000	Malus 10	No Coverage	Euro Protection	Yes
+70	Mercedes Benz	1	2/1/2024	3	Electric Power	500	60000	8/8/1954	Maldives	Selfemployed	Bungee Jumping	25000000	Malus 11	Partial Coverage	Legal Defense Insurance	No
+71	Mercedes Benz	2000	2/1/1982	4	Gas	100000	100	1/1/2006	Mexico	Employee	Cliff Diving	30000000	Malus 12	Full Coverage	Euro Protection	Yes
+72	Mercedes Benz	1000	3/4/2000	5	Other	50000	100000	8/8/1954	Panama	Public Official	Skydiving	35000000	Malus 13	No Coverage	Legal Defense Insurance	No
+73	Mercedes Benz	500	2/1/1982	6	Petrol	600	60000	1/1/2006	Qatar	Farmer	Other	3000000	Malus 14	Partial Coverage	Euro Protection	Yes
+74	Mercedes Benz	800	3/4/2000	7	Diesel	90000	100	8/8/1954	Serbia	Employee	Speeding	5000000	Malus 15	Full Coverage	Legal Defense Insurance	No
+75	Mercedes Benz	1567	4/4/2022	8	Electric Power	500	100000	1/1/2006	Swaziland	Public Official	Bungee Jumping	7000000	Malus 16	No Coverage	Euro Protection	Yes
+76	Mercedes Benz	1	2/1/2024	9	Gas	600	60000	8/8/1954	Oman	Farmer	Cliff Diving	10000000	Malus 17	Partial Coverage	Legal Defense Insurance	No
+77	Mercedes Benz	2000	2/1/1982	1	Other	90000	100	1/1/2006	Romania	Unemployed	Skydiving	15000000	Super Bonus	Full Coverage	Euro Protection	Yes
+78	Mercedes Benz	1000	3/4/2000	2	Petrol	500	100000	8/8/1954	Cuba	Selfemployed	Other	20000000	Bonus 1	No Coverage	Legal Defense Insurance	No
+79	Mercedes Benz	500	4/4/2022	3	Diesel	100000	60000	1/1/2006	Romania	Employee	Speeding	25000000	Bonus 2	Partial Coverage	Euro Protection	Yes
+80	Mercedes Benz	800	2/1/2024	4	Electric Power	50000	100	8/8/1954	Cuba	Public Official	Bungee Jumping	30000000	Bonus 3	Full Coverage	Legal Defense Insurance	No
+81	Mercedes Benz	1567	2/1/1982	5	Petrol	600	100000	1/1/2006	United States	Farmer	Cliff Diving	35000000	Bonus 4	No Coverage	Euro Protection	Yes
+82	Mercedes Benz	1	3/4/2000	6	Diesel	90000	60000	8/8/1954	United Kingdom	Unemployed	Skydiving	3000000	Bonus 5	Partial Coverage	Legal Defense Insurance	No
+83	Nissan	1000	2/1/1982	1	Diesel	500	100	8/8/1954	Qatar	Employee	Bungee Jumping	10000000	Super Bonus	No Coverage	Euro Protection	No
+84	Nissan	500	3/4/2000	2	Electric Power	100000	100000	1/1/2006	Serbia	Public Official	Cliff Diving	15000000	Bonus 1	Partial Coverage	Legal Defense Insurance	Yes
+85	Nissan	800	4/4/2022	3	Gas	50000	60000	8/8/1954	Swaziland	Farmer	Skydiving	20000000	Bonus 2	Full Coverage	Euro Protection	No
+86	Nissan	1567	2/1/2024	4	Other	600	100	1/1/2006	Oman	Unemployed	Other	25000000	Bonus 3	No Coverage	Legal Defense Insurance	Yes
+87	Nissan	1	2/1/1982	5	Petrol	90000	100000	8/8/1954	Romania	Selfemployed	Speeding	30000000	Bonus 4	Partial Coverage	Euro Protection	No
+88	Nissan	2000	3/4/2000	6	Diesel	500	60000	1/1/2006	Cuba	Employee	Bungee Jumping	35000000	Bonus 5	Full Coverage	Legal Defense Insurance	Yes
+89	Nissan	1000	2/1/1982	7	Electric Power	600	100	8/8/1954	Romania	Public Official	Cliff Diving	3000000	Bonus 6	No Coverage	Euro Protection	No
+90	Nissan	500	3/4/2000	8	Gas	90000	100000	1/1/2006	Cuba	Farmer	Skydiving	5000000	Bonus 7	Partial Coverage	Legal Defense Insurance	Yes
+91	Nissan	800	4/4/2022	9	Other	500	60000	8/8/1954	United States	Unemployed	Other	7000000	Bonus 8	Full Coverage	Euro Protection	No
+92	Nissan	1567	2/1/2024	1	Petrol	100000	100	1/1/2006	United Kingdom	Selfemployed	Speeding	10000000	Bonus 9	No Coverage	Legal Defense Insurance	Yes
+93	Nissan	1	2/1/1982	2	Diesel	50000	100000	8/8/1954	Australia	Employee	Bungee Jumping	15000000	Malus 10	Partial Coverage	Euro Protection	No
+94	Nissan	2000	3/4/2000	3	Electric Power	600	60000	1/1/2006	Canada	Public Official	Cliff Diving	20000000	Malus 11	Full Coverage	Legal Defense Insurance	Yes
+95	Nissan	1000	4/4/2022	4	Petrol	90000	100	8/8/1954	Guatemala	Farmer	Speeding	25000000	Malus 12	No Coverage	Euro Protection	No
+96	Nissan	500	2/1/2024	5	Diesel	500	100000	1/1/2006	Japan	Unemployed	Bungee Jumping	30000000	Malus 13	Partial Coverage	Legal Defense Insurance	Yes
+97	Nissan	800	2/1/1982	6	Electric Power	100000	60000	8/8/1954	Kenya	Selfemployed	Cliff Diving	35000000	Malus 14	Full Coverage	Euro Protection	No
+98	Nissan	1567	3/4/2000	7	Gas	50000	100	1/1/2006	Maldives	Employee	Skydiving	3000000	Malus 15	No Coverage	Legal Defense Insurance	Yes
+99	Nissan	1	4/4/2022	8	Other	600	100000	8/8/1954	Mexico	Public Official	Other	5000000	Malus 16	Partial Coverage	Euro Protection	No
+100	Nissan	2000	2/1/2024	9	Petrol	90000	60000	1/1/2006	Panama	Farmer	Speeding	7000000	Malus 17	Full Coverage	Legal Defense Insurance	Yes
+101	Opel	500	4/4/2022	4	Petrol	500	100	1/1/2006	United States	Selfemployed	Bungee Jumping	20000000	Malus 12	Partial Coverage	Euro Protection	Yes
+102	Opel	800	2/1/2024	5	Diesel	600	100000	8/8/1954	United Kingdom	Employee	Cliff Diving	25000000	Malus 13	Full Coverage	Legal Defense Insurance	No
+103	Opel	1567	2/1/1982	6	Electric Power	90000	60000	1/1/2006	Australia	Public Official	Speeding	30000000	Malus 14	No Coverage	Euro Protection	Yes
+104	Opel	1	3/4/2000	7	Gas	500	100	8/8/1954	Canada	Farmer	Bungee Jumping	35000000	Malus 15	Partial Coverage	Legal Defense Insurance	No
+105	Opel	2000	2/1/1982	8	Other	100000	100000	1/1/2006	Guatemala	Unemployed	Cliff Diving	3000000	Malus 16	Full Coverage	Euro Protection	Yes
+106	Opel	1000	3/4/2000	9	Petrol	50000	60000	8/8/1954	Japan	Selfemployed	Skydiving	5000000	Malus 17	No Coverage	Legal Defense Insurance	No
+107	Opel	500	4/4/2022	1	Diesel	600	100	1/1/2006	Kenya	Employee	Other	7000000	Super Bonus	Partial Coverage	Euro Protection	Yes
+108	Opel	800	2/1/2024	2	Electric Power	90000	100000	8/8/1954	Maldives	Public Official	Speeding	10000000	Bonus 1	Full Coverage	Legal Defense Insurance	No
+109	Opel	1567	2/1/1982	3	Petrol	500	60000	1/1/2006	Mexico	Farmer	Bungee Jumping	15000000	Bonus 2	No Coverage	Euro Protection	Yes
+110	Opel	1	3/4/2000	4	Diesel	100000	100	8/8/1954	Panama	Employee	Cliff Diving	20000000	Bonus 3	Partial Coverage	Legal Defense Insurance	No
+111	Opel	2000	4/4/2022	5	Electric Power	50000	100000	1/1/2006	Qatar	Public Official	Skydiving	25000000	Bonus 4	Full Coverage	Euro Protection	Yes
+112	Opel	1000	2/1/2024	6	Gas	600	60000	8/8/1954	Serbia	Farmer	Other	30000000	Bonus 5	No Coverage	Legal Defense Insurance	No
+113	Opel	500	2/1/1982	7	Other	90000	100	1/1/2006	Swaziland	Unemployed	Speeding	35000000	Bonus 6	Partial Coverage	Euro Protection	Yes
+114	Opel	800	3/4/2000	8	Petrol	500	100000	8/8/1954	Oman	Selfemployed	Bungee Jumping	3000000	Bonus 7	Full Coverage	Legal Defense Insurance	No
+115	Opel	1567	4/4/2022	9	Diesel	100000	60000	1/1/2006	Romania	Employee	Cliff Diving	5000000	Bonus 8	No Coverage	Euro Protection	Yes
+116	Opel	1	2/1/2024	1	Electric Power	50000	100	8/8/1954	Cuba	Public Official	Skydiving	7000000	Bonus 9	Partial Coverage	Legal Defense Insurance	No
+117	Opel	2000	2/1/1982	2	Gas	600	100000	1/1/2006	Romania	Farmer	Other	10000000	Malus 10	Full Coverage	Euro Protection	Yes
+118	Opel	1000	3/4/2000	3	Other	90000	60000	8/8/1954	Cuba	Unemployed	Speeding	15000000	Malus 11	No Coverage	Legal Defense Insurance	No
+119	Porsche	800	2/1/1982	7	Other	50000	100	8/8/1954	Mexico	Employee	Skydiving	30000000	Bonus 6	Full Coverage	Euro Protection	No
+120	Porsche	1567	3/4/2000	8	Petrol	600	100000	1/1/2006	Panama	Public Official	Other	35000000	Bonus 7	No Coverage	Legal Defense Insurance	Yes
+121	Porsche	1	2/1/1982	9	Diesel	90000	60000	8/8/1954	Qatar	Farmer	Speeding	3000000	Bonus 8	Partial Coverage	Euro Protection	No
+122	Porsche	2000	3/4/2000	1	Electric Power	500	100	1/1/2006	Serbia	Unemployed	Bungee Jumping	5000000	Bonus 9	Full Coverage	Legal Defense Insurance	Yes
+123	Porsche	1000	4/4/2022	2	Petrol	100000	100000	8/8/1954	Swaziland	Selfemployed	Cliff Diving	7000000	Malus 10	No Coverage	Euro Protection	No
+124	Porsche	500	2/1/2024	3	Diesel	50000	60000	1/1/2006	Oman	Employee	Skydiving	10000000	Malus 11	Partial Coverage	Legal Defense Insurance	Yes
+125	Porsche	800	2/1/1982	4	Electric Power	600	100	8/8/1954	Romania	Public Official	Other	15000000	Malus 12	Full Coverage	Euro Protection	No
+126	Porsche	1567	3/4/2000	5	Gas	90000	100000	1/1/2006	Cuba	Farmer	Speeding	20000000	Malus 13	No Coverage	Legal Defense Insurance	Yes
+127	Porsche	1	4/4/2022	6	Other	500	60000	8/8/1954	Romania	Unemployed	Bungee Jumping	25000000	Malus 14	Partial Coverage	Euro Protection	No
+128	Porsche	2000	2/1/2024	7	Petrol	100000	100	1/1/2006	Cuba	Selfemployed	Cliff Diving	30000000	Malus 15	Full Coverage	Legal Defense Insurance	Yes
+129	Porsche	1000	2/1/1982	8	Diesel	50000	100000	8/8/1954	United States	Employee	Speeding	35000000	Malus 16	No Coverage	Euro Protection	No
+130	Porsche	500	3/4/2000	9	Electric Power	600	60000	1/1/2006	United Kingdom	Public Official	Bungee Jumping	3000000	Malus 17	Partial Coverage	Legal Defense Insurance	Yes
+131	Porsche	800	4/4/2022	1	Gas	90000	100	8/8/1954	Australia	Farmer	Cliff Diving	5000000	Super Bonus	Full Coverage	Euro Protection	No
+132	Porsche	1567	2/1/2024	2	Other	500	100000	1/1/2006	Canada	Unemployed	Skydiving	7000000	Bonus 1	No Coverage	Legal Defense Insurance	Yes
+133	Porsche	1	2/1/1982	3	Petrol	600	60000	8/8/1954	Guatemala	Selfemployed	Other	10000000	Bonus 2	Partial Coverage	Euro Protection	No
+134	Porsche	2000	3/4/2000	4	Diesel	90000	100	1/1/2006	Japan	Employee	Speeding	15000000	Bonus 3	Full Coverage	Legal Defense Insurance	Yes
+135	Porsche	1000	4/4/2022	5	Electric Power	500	100000	8/8/1954	Kenya	Public Official	Bungee Jumping	20000000	Bonus 4	No Coverage	Euro Protection	No
+136	Porsche	500	2/1/2024	6	Gas	100000	60000	1/1/2006	Maldives	Farmer	Cliff Diving	25000000	Bonus 5	Partial Coverage	Legal Defense Insurance	Yes
+137	Renault	1567	2/1/1982	1	Petrol	50000	100	1/1/2006	Romania	Selfemployed	Speeding	3000000	Super Bonus	No Coverage	Euro Protection	Yes
+138	Renault	1	3/4/2000	2	Diesel	600	100000	8/8/1954	Cuba	Employee	Bungee Jumping	5000000	Bonus 1	Partial Coverage	Legal Defense Insurance	No
+139	Renault	2000	4/4/2022	3	Electric Power	90000	60000	1/1/2006	United States	Public Official	Cliff Diving	7000000	Bonus 2	Full Coverage	Euro Protection	Yes
+140	Renault	1000	2/1/2024	4	Gas	500	100	8/8/1954	United Kingdom	Farmer	Skydiving	10000000	Bonus 3	No Coverage	Legal Defense Insurance	No
+141	Renault	500	2/1/1982	5	Other	100000	100000	1/1/2006	Australia	Unemployed	Other	15000000	Bonus 4	Partial Coverage	Euro Protection	Yes
+142	Renault	800	3/4/2000	6	Petrol	50000	60000	8/8/1954	Canada	Selfemployed	Speeding	20000000	Bonus 5	Full Coverage	Legal Defense Insurance	No
+143	Renault	1567	4/4/2022	7	Diesel	600	100	1/1/2006	Guatemala	Employee	Bungee Jumping	25000000	Bonus 6	No Coverage	Euro Protection	Yes
+144	Renault	1	2/1/2024	8	Electric Power	90000	100000	8/8/1954	Japan	Public Official	Cliff Diving	30000000	Bonus 7	Partial Coverage	Legal Defense Insurance	No
+145	Renault	2000	2/1/1982	9	Gas	500	60000	1/1/2006	Kenya	Farmer	Skydiving	35000000	Bonus 8	Full Coverage	Euro Protection	Yes
+146	Renault	1000	3/4/2000	1	Other	600	100	8/8/1954	Maldives	Employee	Other	3000000	Bonus 9	No Coverage	Legal Defense Insurance	No
+147	Renault	500	4/4/2022	2	Petrol	90000	100000	1/1/2006	Mexico	Public Official	Speeding	5000000	Malus 10	Partial Coverage	Euro Protection	Yes
+148	Renault	800	2/1/2024	3	Diesel	500	60000	8/8/1954	Panama	Farmer	Bungee Jumping	7000000	Malus 11	Full Coverage	Legal Defense Insurance	No
+149	Renault	1567	2/1/1982	4	Electric Power	100000	100	1/1/2006	Qatar	Unemployed	Cliff Diving	10000000	Malus 12	No Coverage	Euro Protection	Yes
+150	Renault	1	3/4/2000	5	Gas	50000	100000	8/8/1954	Serbia	Selfemployed	Skydiving	15000000	Malus 13	Partial Coverage	Legal Defense Insurance	No
+151	Renault	2000	4/4/2022	6	Other	600	60000	1/1/2006	Swaziland	Employee	Other	20000000	Malus 14	Full Coverage	Euro Protection	Yes
+152	Renault	1000	2/1/2024	7	Petrol	90000	100	8/8/1954	Oman	Public Official	Speeding	25000000	Malus 15	No Coverage	Legal Defense Insurance	No
+153	Renault	500	2/1/1982	8	Diesel	500	100000	1/1/2006	Romania	Farmer	Bungee Jumping	30000000	Malus 16	Partial Coverage	Euro Protection	Yes
+154	Renault	800	3/4/2000	9	Electric Power	100000	60000	8/8/1954	Cuba	Unemployed	Cliff Diving	35000000	Malus 17	Full Coverage	Legal Defense Insurance	No
+155	Skoda	1	4/4/2022	4	Other	50000	100	8/8/1954	Kenya	Employee	Speeding	7000000	Malus 12	Partial Coverage	Euro Protection	No
+156	Skoda	2000	2/1/2024	5	Petrol	600	100000	1/1/2006	Maldives	Public Official	Bungee Jumping	10000000	Malus 13	Full Coverage	Legal Defense Insurance	Yes
+157	Skoda	1000	2/1/1982	6	Diesel	90000	60000	8/8/1954	Mexico	Farmer	Cliff Diving	15000000	Malus 14	No Coverage	Euro Protection	No
+158	Skoda	500	3/4/2000	7	Electric Power	500	100	1/1/2006	Panama	Unemployed	Skydiving	20000000	Malus 15	Partial Coverage	Legal Defense Insurance	Yes
+159	Skoda	800	4/4/2022	8	Gas	600	100000	8/8/1954	Qatar	Selfemployed	Other	25000000	Malus 16	Full Coverage	Euro Protection	No
+160	Skoda	1567	2/1/2024	9	Other	90000	60000	1/1/2006	Serbia	Employee	Speeding	30000000	Malus 17	No Coverage	Legal Defense Insurance	Yes
+161	Skoda	1	2/1/1982	1	Petrol	500	100	8/8/1954	Swaziland	Public Official	Bungee Jumping	35000000	Super Bonus	Partial Coverage	Euro Protection	No
+162	Skoda	2000	3/4/2000	2	Diesel	100000	100000	1/1/2006	Oman	Farmer	Cliff Diving	3000000	Bonus 1	Full Coverage	Legal Defense Insurance	Yes
+163	Skoda	1000	4/4/2022	3	Electric Power	50000	60000	8/8/1954	Romania	Unemployed	Speeding	5000000	Bonus 2	No Coverage	Euro Protection	No
+164	Skoda	500	2/1/2024	4	Gas	600	100	1/1/2006	Cuba	Selfemployed	Bungee Jumping	7000000	Bonus 3	Partial Coverage	Legal Defense Insurance	Yes
+165	Skoda	800	2/1/1982	5	Other	90000	100000	8/8/1954	Romania	Employee	Cliff Diving	10000000	Bonus 4	Full Coverage	Euro Protection	No
+166	Skoda	1567	3/4/2000	6	Petrol	500	60000	1/1/2006	Cuba	Public Official	Skydiving	15000000	Bonus 5	No Coverage	Legal Defense Insurance	Yes
+167	Skoda	1	4/4/2022	7	Diesel	100000	100	8/8/1954	United States	Farmer	Other	20000000	Bonus 6	Partial Coverage	Euro Protection	No
+168	Skoda	2000	2/1/2024	8	Electric Power	50000	100000	1/1/2006	United Kingdom	Unemployed	Speeding	25000000	Bonus 7	Full Coverage	Legal Defense Insurance	Yes
+169	Skoda	1000	2/1/1982	9	Petrol	600	60000	8/8/1954	Australia	Selfemployed	Bungee Jumping	30000000	Bonus 8	No Coverage	Euro Protection	No
+170	Skoda	500	3/4/2000	1	Diesel	90000	100	1/1/2006	Canada	Employee	Cliff Diving	35000000	Bonus 9	Partial Coverage	Legal Defense Insurance	Yes
+171	Skoda	800	2/1/1982	2	Electric Power	500	100000	8/8/1954	Guatemala	Public Official	Skydiving	3000000	Malus 10	Full Coverage	Euro Protection	No
+172	Skoda	1567	3/4/2000	3	Gas	100000	60000	1/1/2006	Japan	Farmer	Other	5000000	Malus 11	No Coverage	Legal Defense Insurance	Yes
+173	Suzuki	2000	2/1/1982	7	Gas	90000	100	1/1/2006	Romania	Selfemployed	Cliff Diving	15000000	Bonus 6	Full Coverage	Euro Protection	Yes
+174	Suzuki	1000	3/4/2000	8	Other	500	100000	8/8/1954	Cuba	Employee	Skydiving	20000000	Bonus 7	No Coverage	Legal Defense Insurance	No
+175	Suzuki	500	4/4/2022	9	Petrol	100000	60000	1/1/2006	Romania	Public Official	Other	25000000	Bonus 8	Partial Coverage	Euro Protection	Yes
+176	Suzuki	800	2/1/2024	1	Diesel	50000	100	8/8/1954	Cuba	Farmer	Speeding	30000000	Bonus 9	Full Coverage	Legal Defense Insurance	No
+177	Suzuki	1567	2/1/1982	2	Electric Power	600	100000	1/1/2006	United States	Unemployed	Bungee Jumping	35000000	Malus 10	No Coverage	Euro Protection	Yes
+178	Suzuki	1	3/4/2000	3	Gas	90000	60000	8/8/1954	United Kingdom	Selfemployed	Cliff Diving	3000000	Malus 11	Partial Coverage	Legal Defense Insurance	No
+179	Suzuki	2000	4/4/2022	4	Other	500	100	1/1/2006	Australia	Employee	Skydiving	5000000	Malus 12	Full Coverage	Euro Protection	Yes
+180	Suzuki	1000	2/1/2024	5	Petrol	100000	100000	8/8/1954	Canada	Public Official	Other	7000000	Malus 13	No Coverage	Legal Defense Insurance	No
+181	Suzuki	500	2/1/1982	6	Diesel	50000	60000	1/1/2006	Guatemala	Farmer	Speeding	10000000	Malus 14	Partial Coverage	Euro Protection	Yes
+182	Suzuki	800	3/4/2000	7	Electric Power	600	100	8/8/1954	Japan	Employee	Bungee Jumping	15000000	Malus 15	Full Coverage	Legal Defense Insurance	No
+183	Suzuki	1567	4/4/2022	8	Petrol	90000	100000	1/1/2006	Kenya	Public Official	Cliff Diving	20000000	Malus 16	No Coverage	Euro Protection	Yes
+184	Suzuki	1	2/1/2024	9	Diesel	500	60000	8/8/1954	Maldives	Farmer	Skydiving	25000000	Malus 17	Partial Coverage	Legal Defense Insurance	No
+185	Suzuki	2000	2/1/1982	1	Electric Power	100000	100	1/1/2006	Mexico	Unemployed	Other	30000000	Super Bonus	Full Coverage	Euro Protection	Yes
+186	Suzuki	1000	3/4/2000	2	Gas	50000	100000	8/8/1954	Panama	Selfemployed	Speeding	35000000	Bonus 1	No Coverage	Legal Defense Insurance	No
+187	Suzuki	500	2/1/1982	3	Other	600	60000	1/1/2006	Qatar	Employee	Bungee Jumping	3000000	Bonus 2	Partial Coverage	Euro Protection	Yes
+188	Suzuki	800	3/4/2000	4	Petrol	90000	100	8/8/1954	Serbia	Public Official	Cliff Diving	5000000	Bonus 3	Full Coverage	Legal Defense Insurance	No
+189	Suzuki	1567	4/4/2022	5	Diesel	500	100000	1/1/2006	Swaziland	Farmer	Speeding	7000000	Bonus 4	No Coverage	Euro Protection	Yes
+190	Suzuki	1	2/1/2024	6	Electric Power	600	60000	8/8/1954	Oman	Unemployed	Bungee Jumping	10000000	Bonus 5	Partial Coverage	Legal Defense Insurance	No
+191	Toyota	1000	4/4/2022	1	Electric Power	90000	100	8/8/1954	Guatemala	Employee	Cliff Diving	25000000	Super Bonus	No Coverage	Euro Protection	No
+192	Toyota	500	2/1/2024	2	Gas	500	100000	1/1/2006	Japan	Public Official	Skydiving	30000000	Bonus 1	Partial Coverage	Legal Defense Insurance	Yes
+193	Toyota	800	2/1/1982	3	Other	100000	60000	8/8/1954	Kenya	Farmer	Other	35000000	Bonus 2	Full Coverage	Euro Protection	No
+194	Toyota	1567	3/4/2000	4	Petrol	50000	100	1/1/2006	Maldives	Unemployed	Speeding	3000000	Bonus 3	No Coverage	Legal Defense Insurance	Yes
+195	Toyota	1	4/4/2022	5	Diesel	600	100000	8/8/1954	Mexico	Selfemployed	Bungee Jumping	5000000	Bonus 4	Partial Coverage	Euro Protection	No
+196	Toyota	2000	2/1/2024	6	Electric Power	90000	60000	1/1/2006	Panama	Employee	Cliff Diving	7000000	Bonus 5	Full Coverage	Legal Defense Insurance	Yes
+197	Toyota	1000	2/1/1982	7	Petrol	500	100	8/8/1954	Qatar	Public Official	Speeding	10000000	Bonus 6	No Coverage	Euro Protection	No
+198	Toyota	500	3/4/2000	8	Diesel	100000	100000	1/1/2006	Serbia	Farmer	Bungee Jumping	15000000	Bonus 7	Partial Coverage	Legal Defense Insurance	Yes
+199	Toyota	800	4/4/2022	9	Electric Power	50000	60000	8/8/1954	Swaziland	Unemployed	Cliff Diving	20000000	Bonus 8	Full Coverage	Euro Protection	No
+200	Toyota	1567	2/1/2024	1	Gas	600	100	1/1/2006	Oman	Selfemployed	Skydiving	25000000	Bonus 9	No Coverage	Legal Defense Insurance	Yes
+201	Toyota	1	2/1/1982	2	Other	90000	100000	8/8/1954	Romania	Employee	Other	30000000	Malus 10	Partial Coverage	Euro Protection	No
+202	Toyota	2000	3/4/2000	3	Petrol	500	60000	1/1/2006	Cuba	Public Official	Speeding	35000000	Malus 11	Full Coverage	Legal Defense Insurance	Yes
+203	Toyota	1000	2/1/1982	4	Diesel	600	100	8/8/1954	Romania	Farmer	Bungee Jumping	3000000	Malus 12	No Coverage	Euro Protection	No
+204	Toyota	500	3/4/2000	5	Electric Power	90000	100000	1/1/2006	Cuba	Unemployed	Cliff Diving	5000000	Malus 13	Partial Coverage	Legal Defense Insurance	Yes
+205	Toyota	800	4/4/2022	6	Gas	500	60000	8/8/1954	United States	Selfemployed	Skydiving	7000000	Malus 14	Full Coverage	Euro Protection	No
+206	Toyota	1567	2/1/2024	7	Other	100000	100	1/1/2006	United Kingdom	Employee	Other	10000000	Malus 15	No Coverage	Legal Defense Insurance	Yes
+207	Toyota	1	2/1/1982	8	Petrol	50000	100000	8/8/1954	Australia	Public Official	Speeding	15000000	Malus 16	Partial Coverage	Euro Protection	No
+208	Toyota	2000	3/4/2000	9	Diesel	600	60000	1/1/2006	Canada	Farmer	Bungee Jumping	20000000	Malus 17	Full Coverage	Legal Defense Insurance	Yes
+209	Volkswagen	500	2/1/1982	4	Diesel	90000	100	1/1/2006	Swaziland	Selfemployed	Other	35000000	Malus 12	Partial Coverage	Euro Protection	Yes
+210	Volkswagen	800	3/4/2000	5	Electric Power	500	100000	8/8/1954	Oman	Employee	Speeding	3000000	Malus 13	Full Coverage	Legal Defense Insurance	No
+211	Volkswagen	1567	4/4/2022	6	Petrol	100000	60000	1/1/2006	Romania	Public Official	Bungee Jumping	5000000	Malus 14	No Coverage	Euro Protection	Yes
+212	Volkswagen	1	2/1/2024	7	Diesel	50000	100	8/8/1954	Cuba	Farmer	Cliff Diving	7000000	Malus 15	Partial Coverage	Legal Defense Insurance	No
+213	Volkswagen	2000	2/1/1982	8	Electric Power	600	100000	1/1/2006	Romania	Unemployed	Skydiving	10000000	Malus 16	Full Coverage	Euro Protection	Yes
+214	Volkswagen	1000	3/4/2000	9	Gas	90000	60000	8/8/1954	Cuba	Selfemployed	Other	15000000	Malus 17	No Coverage	Legal Defense Insurance	No
+215	Volkswagen	500	4/4/2022	1	Other	500	100	1/1/2006	United States	Employee	Speeding	20000000	Super Bonus	Partial Coverage	Euro Protection	Yes
+216	Volkswagen	800	2/1/2024	2	Petrol	600	100000	8/8/1954	United Kingdom	Public Official	Bungee Jumping	25000000	Bonus 1	Full Coverage	Legal Defense Insurance	No
+217	Volkswagen	1567	2/1/1982	3	Diesel	90000	60000	1/1/2006	Australia	Farmer	Cliff Diving	30000000	Bonus 2	No Coverage	Euro Protection	Yes
+218	Volkswagen	1	3/4/2000	4	Electric Power	500	100	8/8/1954	Canada	Employee	Skydiving	35000000	Bonus 3	Partial Coverage	Legal Defense Insurance	No
+219	Volkswagen	2000	2/1/1982	5	Gas	100000	100000	1/1/2006	Guatemala	Public Official	Other	3000000	Bonus 4	Full Coverage	Euro Protection	Yes
+220	Volkswagen	1000	3/4/2000	6	Other	50000	60000	8/8/1954	Japan	Farmer	Speeding	5000000	Bonus 5	No Coverage	Legal Defense Insurance	No
+221	Volkswagen	500	4/4/2022	7	Petrol	600	100	1/1/2006	Kenya	Unemployed	Bungee Jumping	7000000	Bonus 6	Partial Coverage	Euro Protection	Yes
+222	Volkswagen	800	2/1/2024	8	Diesel	90000	100000	8/8/1954	Maldives	Selfemployed	Cliff Diving	10000000	Bonus 7	Full Coverage	Legal Defense Insurance	No
+223	Volkswagen	1567	2/1/1982	9	Electric Power	500	60000	1/1/2006	Mexico	Employee	Speeding	15000000	Bonus 8	No Coverage	Euro Protection	Yes
+224	Volkswagen	1	3/4/2000	1	Gas	100000	100	8/8/1954	Panama	Public Official	Bungee Jumping	20000000	Bonus 9	Partial Coverage	Legal Defense Insurance	No
+225	Volkswagen	2000	4/4/2022	2	Other	50000	100000	1/1/2006	Qatar	Farmer	Cliff Diving	25000000	Malus 10	Full Coverage	Euro Protection	Yes
+226	Volkswagen	1000	2/1/2024	3	Petrol	600	60000	8/8/1954	Serbia	Unemployed	Skydiving	30000000	Malus 11	No Coverage	Legal Defense Insurance	No
+227	Volvo	800	4/4/2022	7	Electric Power	90000	100	8/8/1954	Australia	Employee	Other	5000000	Bonus 6	Full Coverage	Euro Protection	No
+228	Volvo	1567	2/1/2024	8	Gas	500	100000	1/1/2006	Canada	Public Official	Speeding	7000000	Bonus 7	No Coverage	Legal Defense Insurance	Yes
+229	Volvo	1	2/1/1982	9	Other	600	60000	8/8/1954	Guatemala	Farmer	Bungee Jumping	10000000	Bonus 8	Partial Coverage	Euro Protection	No
+230	Volvo	2000	3/4/2000	1	Petrol	90000	100	1/1/2006	Japan	Unemployed	Cliff Diving	15000000	Bonus 9	Full Coverage	Legal Defense Insurance	Yes
+231	Volvo	1000	4/4/2022	2	Diesel	500	100000	8/8/1954	Kenya	Selfemployed	Speeding	20000000	Malus 10	No Coverage	Euro Protection	No
+232	Volvo	500	2/1/2024	3	Electric Power	100000	60000	1/1/2006	Maldives	Employee	Bungee Jumping	25000000	Malus 11	Partial Coverage	Legal Defense Insurance	Yes
+233	Volvo	800	2/1/1982	4	Gas	50000	100	8/8/1954	Mexico	Public Official	Cliff Diving	30000000	Malus 12	Full Coverage	Euro Protection	No
+234	Volvo	1567	3/4/2000	5	Other	600	100000	1/1/2006	Panama	Farmer	Skydiving	35000000	Malus 13	No Coverage	Legal Defense Insurance	Yes
+235	Volvo	1	2/1/1982	6	Petrol	90000	60000	8/8/1954	Qatar	Unemployed	Other	3000000	Malus 14	Partial Coverage	Euro Protection	No
+236	Volvo	2000	3/4/2000	7	Diesel	500	100	1/1/2006	Serbia	Selfemployed	Speeding	5000000	Malus 15	Full Coverage	Legal Defense Insurance	Yes
+237	Volvo	1000	4/4/2022	8	Electric Power	100000	100000	8/8/1954	Swaziland	Employee	Bungee Jumping	7000000	Malus 16	No Coverage	Euro Protection	No
+238	Volvo	500	2/1/2024	9	Gas	50000	60000	1/1/2006	Oman	Public Official	Cliff Diving	10000000	Malus 17	Partial Coverage	Legal Defense Insurance	Yes
+239	Volvo	800	2/1/1982	1	Other	600	100	8/8/1954	Romania	Farmer	Skydiving	15000000	Super Bonus	Full Coverage	Euro Protection	No
+240	Volvo	1567	3/4/2000	2	Petrol	90000	100000	1/1/2006	Cuba	Unemployed	Other	20000000	Bonus 1	No Coverage	Legal Defense Insurance	Yes
+241	Volvo	1	4/4/2022	3	Diesel	500	60000	8/8/1954	Romania	Selfemployed	Speeding	25000000	Bonus 2	Partial Coverage	Euro Protection	No
+242	Volvo	2000	2/1/2024	4	Electric Power	100000	100	1/1/2006	Cuba	Employee	Bungee Jumping	30000000	Bonus 3	Full Coverage	Legal Defense Insurance	Yes
+243	Volvo	1000	2/1/1982	5	Petrol	50000	100000	8/8/1954	United States	Public Official	Cliff Diving	35000000	Bonus 4	No Coverage	Euro Protection	No
+244	Volvo	500	3/4/2000	6	Diesel	600	60000	1/1/2006	United Kingdom	Farmer	Skydiving	3000000	Bonus 5	Partial Coverage	Legal Defense Insurance	Yes
+245	Audi	1567	2/1/1982	1	Diesel	100000	100	1/1/2006	Qatar	Selfemployed	Bungee Jumping	10000000	Super Bonus	No Coverage	Euro Protection	Yes
+246	Audi	1	3/4/2000	2	Electric Power	50000	100000	8/8/1954	Serbia	Employee	Cliff Diving	15000000	Bonus 1	Partial Coverage	Legal Defense Insurance	No
+247	Audi	2000	4/4/2022	3	Gas	600	60000	1/1/2006	Swaziland	Public Official	Skydiving	20000000	Bonus 2	Full Coverage	Euro Protection	Yes
+248	Audi	1000	2/1/2024	4	Other	90000	100	8/8/1954	Oman	Farmer	Other	25000000	Bonus 3	No Coverage	Legal Defense Insurance	No
+249	Audi	500	2/1/1982	5	Petrol	500	100000	1/1/2006	Romania	Unemployed	Speeding	30000000	Bonus 4	Partial Coverage	Euro Protection	Yes
+250	Audi	800	3/4/2000	6	Diesel	100000	60000	8/8/1954	Cuba	Selfemployed	Bungee Jumping	35000000	Bonus 5	Full Coverage	Legal Defense Insurance	No
+251	Audi	1567	2/1/1982	7	Electric Power	50000	100	1/1/2006	Romania	Employee	Cliff Diving	3000000	Bonus 6	No Coverage	Euro Protection	Yes
+252	Audi	1	3/4/2000	8	Gas	600	100000	8/8/1954	Cuba	Public Official	Skydiving	5000000	Bonus 7	Partial Coverage	Legal Defense Insurance	No
+253	Audi	2000	4/4/2022	9	Other	90000	60000	1/1/2006	United States	Farmer	Other	7000000	Bonus 8	Full Coverage	Euro Protection	Yes
+254	Audi	1000	2/1/2024	1	Petrol	500	100	8/8/1954	United Kingdom	Employee	Speeding	10000000	Bonus 9	No Coverage	Legal Defense Insurance	No
+255	Audi	500	2/1/1982	2	Diesel	100000	100000	1/1/2006	Australia	Public Official	Bungee Jumping	15000000	Malus 10	Partial Coverage	Euro Protection	Yes
+256	Audi	800	3/4/2000	3	Electric Power	50000	60000	8/8/1954	Canada	Farmer	Cliff Diving	20000000	Malus 11	Full Coverage	Legal Defense Insurance	No
+257	Audi	1567	4/4/2022	4	Petrol	600	100	1/1/2006	Guatemala	Unemployed	Speeding	25000000	Malus 12	No Coverage	Euro Protection	Yes
+258	Audi	1	2/1/2024	5	Diesel	90000	100000	8/8/1954	Japan	Selfemployed	Bungee Jumping	30000000	Malus 13	Partial Coverage	Legal Defense Insurance	No
+259	Audi	2000	2/1/1982	6	Electric Power	500	60000	1/1/2006	Kenya	Employee	Cliff Diving	35000000	Malus 14	Full Coverage	Euro Protection	Yes
+260	Audi	1000	3/4/2000	7	Gas	600	100	8/8/1954	Maldives	Public Official	Skydiving	3000000	Malus 15	No Coverage	Legal Defense Insurance	No
+261	Audi	500	4/4/2022	8	Other	90000	100000	1/1/2006	Mexico	Farmer	Other	5000000	Malus 16	Partial Coverage	Euro Protection	Yes
+262	Audi	800	2/1/2024	9	Petrol	500	60000	8/8/1954	Panama	Unemployed	Speeding	7000000	Malus 17	Full Coverage	Legal Defense Insurance	No
+263	BMW	1	4/4/2022	4	Petrol	100000	100	8/8/1954	United States	Employee	Bungee Jumping	20000000	Malus 12	Partial Coverage	Euro Protection	No
+264	BMW	2000	2/1/2024	5	Diesel	50000	100000	1/1/2006	United Kingdom	Public Official	Cliff Diving	25000000	Malus 13	Full Coverage	Legal Defense Insurance	Yes
+265	BMW	1000	2/1/1982	6	Electric Power	600	60000	8/8/1954	Australia	Farmer	Speeding	30000000	Malus 14	No Coverage	Euro Protection	No
+266	BMW	500	3/4/2000	7	Gas	90000	100	1/1/2006	Canada	Unemployed	Bungee Jumping	35000000	Malus 15	Partial Coverage	Legal Defense Insurance	Yes
+267	BMW	800	2/1/1982	8	Other	500	100000	8/8/1954	Guatemala	Selfemployed	Cliff Diving	3000000	Malus 16	Full Coverage	Euro Protection	No
+268	BMW	1567	3/4/2000	9	Petrol	100000	60000	1/1/2006	Japan	Employee	Skydiving	5000000	Malus 17	No Coverage	Legal Defense Insurance	Yes
+269	BMW	1	4/4/2022	1	Diesel	50000	100	8/8/1954	Kenya	Public Official	Other	7000000	Super Bonus	Partial Coverage	Euro Protection	No
+270	BMW	2000	2/1/2024	2	Electric Power	600	100000	1/1/2006	Maldives	Farmer	Speeding	10000000	Bonus 1	Full Coverage	Legal Defense Insurance	Yes
+271	BMW	1000	2/1/1982	3	Petrol	90000	60000	8/8/1954	Mexico	Unemployed	Bungee Jumping	15000000	Bonus 2	No Coverage	Euro Protection	No
+272	BMW	500	3/4/2000	4	Diesel	500	100	1/1/2006	Panama	Selfemployed	Cliff Diving	20000000	Bonus 3	Partial Coverage	Legal Defense Insurance	Yes
+273	BMW	800	4/4/2022	5	Electric Power	600	100000	8/8/1954	Qatar	Employee	Skydiving	25000000	Bonus 4	Full Coverage	Euro Protection	No
+274	BMW	1567	2/1/2024	6	Gas	90000	60000	1/1/2006	Serbia	Public Official	Other	30000000	Bonus 5	No Coverage	Legal Defense Insurance	Yes
+275	BMW	1	2/1/1982	7	Other	500	100	8/8/1954	Swaziland	Farmer	Speeding	35000000	Bonus 6	Partial Coverage	Euro Protection	No
+276	BMW	2000	3/4/2000	8	Petrol	100000	100000	1/1/2006	Oman	Unemployed	Bungee Jumping	3000000	Bonus 7	Full Coverage	Legal Defense Insurance	Yes
+277	BMW	1000	4/4/2022	9	Diesel	50000	60000	8/8/1954	Romania	Selfemployed	Cliff Diving	5000000	Bonus 8	No Coverage	Euro Protection	No
+278	BMW	500	2/1/2024	1	Electric Power	600	100	1/1/2006	Cuba	Employee	Skydiving	7000000	Bonus 9	Partial Coverage	Legal Defense Insurance	Yes
+279	BMW	800	2/1/1982	2	Gas	90000	100000	8/8/1954	Romania	Public Official	Other	10000000	Malus 10	Full Coverage	Euro Protection	No
+280	BMW	1567	3/4/2000	3	Other	500	60000	1/1/2006	Cuba	Farmer	Speeding	15000000	Malus 11	No Coverage	Legal Defense Insurance	Yes
+281	Ford	2000	2/1/1982	7	Other	100000	100	1/1/2006	Mexico	Selfemployed	Skydiving	30000000	Bonus 6	Full Coverage	Euro Protection	Yes
+282	Ford	1000	3/4/2000	8	Petrol	50000	100000	8/8/1954	Panama	Employee	Other	35000000	Bonus 7	No Coverage	Legal Defense Insurance	No
+283	Ford	500	2/1/1982	9	Diesel	600	60000	1/1/2006	Qatar	Public Official	Speeding	3000000	Bonus 8	Partial Coverage	Euro Protection	Yes
+284	Ford	800	3/4/2000	1	Electric Power	90000	100	8/8/1954	Serbia	Farmer	Bungee Jumping	5000000	Bonus 9	Full Coverage	Legal Defense Insurance	No
+285	Ford	1567	4/4/2022	2	Petrol	500	100000	1/1/2006	Swaziland	Unemployed	Cliff Diving	7000000	Malus 10	No Coverage	Euro Protection	Yes
+286	Ford	1	2/1/2024	3	Diesel	600	60000	8/8/1954	Oman	Selfemployed	Skydiving	10000000	Malus 11	Partial Coverage	Legal Defense Insurance	No
+287	Ford	2000	2/1/1982	4	Electric Power	90000	100	1/1/2006	Romania	Employee	Other	15000000	Malus 12	Full Coverage	Euro Protection	Yes
+288	Ford	1000	3/4/2000	5	Gas	500	100000	8/8/1954	Cuba	Public Official	Speeding	20000000	Malus 13	No Coverage	Legal Defense Insurance	No
+289	Ford	500	4/4/2022	6	Other	100000	60000	1/1/2006	Romania	Farmer	Bungee Jumping	25000000	Malus 14	Partial Coverage	Euro Protection	Yes
+290	Ford	800	2/1/2024	7	Petrol	50000	100	8/8/1954	Cuba	Employee	Cliff Diving	30000000	Malus 15	Full Coverage	Legal Defense Insurance	No
+291	Ford	1567	2/1/1982	8	Diesel	600	100000	1/1/2006	United States	Public Official	Speeding	35000000	Malus 16	No Coverage	Euro Protection	Yes
+292	Ford	1	3/4/2000	9	Electric Power	90000	60000	8/8/1954	United Kingdom	Farmer	Bungee Jumping	3000000	Malus 17	Partial Coverage	Legal Defense Insurance	No
+293	Ford	2000	4/4/2022	1	Gas	500	100	1/1/2006	Australia	Unemployed	Cliff Diving	5000000	Super Bonus	Full Coverage	Euro Protection	Yes
+294	Ford	1000	2/1/2024	2	Other	100000	100000	8/8/1954	Canada	Selfemployed	Skydiving	7000000	Bonus 1	No Coverage	Legal Defense Insurance	No
+295	Ford	500	2/1/1982	3	Petrol	50000	60000	1/1/2006	Guatemala	Employee	Other	10000000	Bonus 2	Partial Coverage	Euro Protection	Yes
+296	Ford	800	3/4/2000	4	Diesel	600	100	8/8/1954	Japan	Public Official	Speeding	15000000	Bonus 3	Full Coverage	Legal Defense Insurance	No
+297	Ford	1567	4/4/2022	5	Electric Power	90000	100000	1/1/2006	Kenya	Farmer	Bungee Jumping	20000000	Bonus 4	No Coverage	Euro Protection	Yes
+298	Ford	1	2/1/2024	6	Gas	500	60000	8/8/1954	Maldives	Unemployed	Cliff Diving	25000000	Bonus 5	Partial Coverage	Legal Defense Insurance	No
