@@ -1,0 +1,58 @@
+your vehicle insurance quote
+
+#8802
+
+tricentis.com support.tricentis.com sampleapp.tricentis.com
+
+INSURANT DATA First Name: Silvia
+Gender: Street Address:
+
+Last Name: Silver Country: Austria
+
+Birthdate: 4/5/2000
+
+ZIP: 123456
+
+City:
+
+Occupation: Employee
+
+VEHICLE DATA
+
+Vehicle Type: Make: Model: Engine Performance [kW]: Cylinder Capacity [ccm]: Date of Manufacture: Number of Seats: Fuel Type: Payload [kg]: Total Weight [kg]: List Price [$]: Annual Mileage [mi]:
+
+BMW
+1/1/2020 4 Petrol
+10000 15000
+
+PRODUCT DATA Start Date: 12/11/2024
+
+Insurance Sum [$]: 30000000
+
+Courtesy Car: No
+
+Merit Rating: Bonus 1
+
+Legal Defense Insurance:
+
+Euro Protection: Yes
+
+Damage Insurance: Full Coverage
+
+Price Option: Silver
+
+PRICING
+
+.
+240.00$ p.a.
+Subject to 10% v.a.t. added to the given amount. 40% Upon Agreement - 60% Upon Delivery
+
+SIGNATURE
+Powered by TCPDF (www.tcpdf.org)
+
+Date:
+1 / 1
+
+Signee:
+
+
