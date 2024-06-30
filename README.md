@@ -9,4 +9,4 @@ Next, the script takes screenshots for each form submission and saves them with 
 </p>
 <h3>Results</h3><br>
 <p>The automated script designed for interacting with the Tricentis web application was executed successfully. It navigated to the application, processed data from external files, automated interactions with input fields, downloaded PDF quotes, extracted and compared data from both web pages and PDFs, captured screenshots, and saved extracted data to JSON files. The script completed all tasks efficiently and accurately, confirming its successful execution.</p>
-<p>Find below the saved screenshots of the generated results for "OFAT.txt" file.</p>
+<p>The downloaded PDF files and the text files from the OFAT and the Pairwise technique results are saved in the OFAT and AllPairs folders.</p>
