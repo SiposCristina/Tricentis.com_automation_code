@@ -1,0 +1,28 @@
+Test_ID	Make	kW	Date_Manufacture	Seats	Fuel	List_Price	Mileage	Birth_Date	Occupation	Hobbies	Insurance_Sum	Merit_Rating	Damage_Insurance	Optional_Products	Courtesy_Car
+1	BMW	1000	1/1/2020	4	Petrol	10000	15000	4/5/2000	Employee	Speeding	3000000	Bonus 1	Full Coverage	Euro Protection	No
+2	Porsche	1000	1/1/2020	4	Petrol	10000	15000	4/5/2000	Employee	Speeding	3000000	Bonus 1	Full Coverage	Euro Protection	No
+3	BMW	10	1/1/2020	4	Petrol	10000	15000	4/5/2000	Employee	Speeding	3000000	Bonus 1	Full Coverage	Euro Protection	No
+4	BMW	800	1/1/2020	4	Petrol	10000	15000	4/5/2000	Employee	Speeding	3000000	Bonus 1	Full Coverage	Euro Protection	No
+5	BMW	1000	1/1/1980	4	Petrol	10000	15000	4/5/2000	Employee	Speeding	3000000	Bonus 1	Full Coverage	Euro Protection	No
+6	BMW	1000	2/5/2024	4	Petrol	10000	15000	4/5/2000	Employee	Speeding	3000000	Bonus 1	Full Coverage	Euro Protection	No
+7	BMW	1000	1/1/2020	9	Petrol	10000	15000	4/5/2000	Employee	Speeding	3000000	Bonus 1	Full Coverage	Euro Protection	No
+8	BMW	1000	1/1/2020	4	Gas	10000	15000	4/5/2000	Employee	Speeding	3000000	Bonus 1	Full Coverage	Euro Protection	No
+9	BMW	1000	1/1/2020	4	Diesel	10000	15000	4/5/2000	Employee	Speeding	3000000	Bonus 1	Full Coverage	Euro Protection	No
+10	BMW	1000	1/1/2020	4	Petrol	20000	15000	4/5/2000	Employee	Speeding	3000000	Bonus 1	Full Coverage	Euro Protection	No
+11	BMW	1000	1/1/2020	4	Petrol	100000	15000	4/5/2000	Employee	Speeding	3000000	Bonus 1	Full Coverage	Euro Protection	No
+12	BMW	1000	1/1/2020	4	Petrol	10000	200	4/5/2000	Employee	Speeding	3000000	Bonus 1	Full Coverage	Euro Protection	No
+13	BMW	1000	1/1/2020	4	Petrol	10000	99999	4/5/2000	Employee	Speeding	3000000	Bonus 1	Full Coverage	Euro Protection	No
+14	BMW	1000	1/1/2020	4	Petrol	10000	15000	1/1/2006	Employee	Speeding	3000000	Bonus 1	Full Coverage	Euro Protection	No
+15	BMW	1000	1/1/2020	4	Petrol	10000	15000	5/10/1954	Employee	Speeding	3000000	Bonus 1	Full Coverage	Euro Protection	No
+16	BMW	1000	1/1/2020	4	Petrol	10000	15000	4/5/2000	Farmer	Speeding	3000000	Bonus 1	Full Coverage	Euro Protection	No
+17	BMW	1000	1/1/2020	4	Petrol	10000	15000	4/5/2000	Public Official	Speeding	3000000	Bonus 1	Full Coverage	Euro Protection	No
+18	BMW	1000	1/1/2020	4	Petrol	10000	15000	4/5/2000	Employee	Bungee Jumping	3000000	Bonus 1	Full Coverage	Euro Protection	No
+19	BMW	1000	1/1/2020	4	Petrol	10000	15000	4/5/2000	Employee	Cliff Diving	3000000	Bonus 1	Full Coverage	Euro Protection	No
+20	BMW	1000	1/1/2020	4	Petrol	10000	15000	4/5/2000	Employee	Speeding	5000000	Bonus 1	Full Coverage	Euro Protection	No
+21	BMW	1000	1/1/2020	4	Petrol	10000	15000	4/5/2000	Employee	Speeding	35000000	Bonus 1	Full Coverage	Euro Protection	No
+22	BMW	1000	1/1/2020	4	Petrol	10000	15000	4/5/2000	Employee	Speeding	3000000	Bonus 5	Full Coverage	Euro Protection	No
+23	BMW	1000	1/1/2020	4	Petrol	10000	15000	4/5/2000	Employee	Speeding	3000000	Malus 17	Full Coverage	Euro Protection	No
+24	BMW	1000	1/1/2020	4	Petrol	10000	15000	4/5/2000	Employee	Speeding	3000000	Bonus 1	No Coverage	Euro Protection	No
+25	BMW	1000	1/1/2020	4	Petrol	10000	15000	4/5/2000	Employee	Speeding	3000000	Bonus 1	Partial Coverage	Euro Protection	No
+26	BMW	1000	1/1/2020	4	Petrol	10000	15000	4/5/2000	Employee	Speeding	3000000	Bonus 1	Full Coverage	Legal Defense	No
+27	BMW	1000	1/1/2020	4	Petrol	10000	15000	4/5/2000	Employee	Speeding	3000000	Bonus 1	Full Coverage	Euro Protection	Yes
