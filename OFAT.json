@@ -1,0 +1,2414 @@
+[
+  {
+    "Test_ID": "1",
+    "make": {
+      "screen": "BMW",
+      "pdf": {
+        "silver": "BMW",
+        "gold": "BMW",
+        "platinum": "BMW",
+        "ultimate": "BMW"
+      }
+    },
+    "fueltype": {
+      "screen": "Petrol",
+      "pdf": {
+        "silver": "Petrol",
+        "gold": "Petrol",
+        "platinum": "Petrol",
+        "ultimate": "Petrol"
+      }
+    },
+    "birthdate": {
+      "screen": "4/5/2000",
+      "pdf": {
+        "silver": "4/5/2000",
+        "gold": "4/5/2000",
+        "platinum": "4/5/2000",
+        "ultimate": "4/5/2000"
+      }
+    },
+    "occupation": {
+      "screen": "Employee",
+      "pdf": {
+        "silver": "Employee",
+        "gold": "Employee",
+        "platinum": "Employee",
+        "ultimate": "Employee"
+      }
+    },
+    "insurance": {
+      "screen": "Full Coverage",
+      "pdf": {
+        "silver": "Full Coverage",
+        "gold": "Full Coverage",
+        "platinum": "Full Coverage",
+        "ultimate": "Full Coverage"
+      }
+    },
+    "dateofmanufacture": {
+      "screen": "1/1/2020",
+      "pdf": {
+        "silver": "1/1/2020",
+        "gold": "1/1/2020",
+        "platinum": "1/1/2020",
+        "ultimate": "1/1/2020"
+      }
+    },
+    "seats": {
+      "screen": "4",
+      "pdf": {
+        "silver": "4",
+        "gold": "4",
+        "platinum": "4",
+        "ultimate": "4"
+      }
+    },
+    "annual mileage": {
+      "screen": "15000",
+      "pdf": {
+        "silver": "15000",
+        "gold": "15000",
+        "platinum": "15000",
+        "ultimate": "15000"
+      }
+    },
+    "insurancesum": {
+      "screen": "3000000",
+      "pdf": {
+        "silver": "3000000",
+        "gold": "3000000",
+        "platinum": "3000000",
+        "ultimate": "3000000"
+      }
+    },
+    "merit rating": {
+      "screen": "Bonus 1",
+      "pdf": {
+        "silver": "Bonus 1",
+        "gold": "Bonus 1",
+        "platinum": "Bonus 1",
+        "ultimate": "Bonus 1"
+      }
+    },
+    "legal defense insurance": {
+      "screen": "No",
+      "pdf": {
+        "silver": "",
+        "gold": "",
+        "platinum": "",
+        "ultimate": ""
+      }
+    },
+    "europrotection": {
+      "screen": "Yes",
+      "pdf": {
+        "silver": "Yes",
+        "gold": "Yes",
+        "platinum": "Yes",
+        "ultimate": "Yes"
+      }
+    },
+    "courtesycar": {
+      "screen": "No",
+      "pdf": {
+        "silver": "No",
+        "gold": "No",
+        "platinum": "No",
+        "ultimate": "No"
+      }
+    },
+    "prices": {
+      "screen": {
+        "silver": "233.00",
+        "gold": "686.00",
+        "platinum": "1,346.00",
+        "ultimate": "2,565.00"
+      },
+      "pdf": {
+        "silver": "233.00",
+        "gold": "686.00",
+        "platinum": "1,346.00",
+        "ultimate": "2,565.00"
+      }
+    }
+  },
+  {
+    "Test_ID": "2",
+    "make": {
+      "screen": "BMW",
+      "pdf": {
+        "silver": "BMW",
+        "gold": "BMW",
+        "platinum": "BMW",
+        "ultimate": "BMW"
+      }
+    },
+    "fueltype": {
+      "screen": "Petrol",
+      "pdf": {
+        "silver": "Petrol",
+        "gold": "Petrol",
+        "platinum": "Petrol",
+        "ultimate": "Petrol"
+      }
+    },
+    "birthdate": {
+      "screen": "4/5/2000",
+      "pdf": {
+        "silver": "4/5/2000",
+        "gold": "4/5/2000",
+        "platinum": "4/5/2000",
+        "ultimate": "4/5/2000"
+      }
+    },
+    "occupation": {
+      "screen": "Employee",
+      "pdf": {
+        "silver": "Employee",
+        "gold": "Employee",
+        "platinum": "Employee",
+        "ultimate": "Employee"
+      }
+    },
+    "insurance": {
+      "screen": "Full Coverage",
+      "pdf": {
+        "silver": "Full Coverage",
+        "gold": "Full Coverage",
+        "platinum": "Full Coverage",
+        "ultimate": "Full Coverage"
+      }
+    },
+    "dateofmanufacture": {
+      "screen": "1/1/2020",
+      "pdf": {
+        "silver": "1/1/2020",
+        "gold": "1/1/2020",
+        "platinum": "1/1/2020",
+        "ultimate": "1/1/2020"
+      }
+    },
+    "seats": {
+      "screen": "4",
+      "pdf": {
+        "silver": "4",
+        "gold": "4",
+        "platinum": "4",
+        "ultimate": "4"
+      }
+    },
+    "annual mileage": {
+      "screen": "15000",
+      "pdf": {
+        "silver": "15000",
+        "gold": "15000",
+        "platinum": "15000",
+        "ultimate": "15000"
+      }
+    },
+    "insurancesum": {
+      "screen": "5000000",
+      "pdf": {
+        "silver": "5000000",
+        "gold": "5000000",
+        "platinum": "5000000",
+        "ultimate": "5000000"
+      }
+    },
+    "merit rating": {
+      "screen": "Bonus 1",
+      "pdf": {
+        "silver": "Bonus 1",
+        "gold": "Bonus 1",
+        "platinum": "Bonus 1",
+        "ultimate": "Bonus 1"
+      }
+    },
+    "legal defense insurance": {
+      "screen": "No",
+      "pdf": {
+        "silver": "",
+        "gold": "",
+        "platinum": "",
+        "ultimate": ""
+      }
+    },
+    "europrotection": {
+      "screen": "Yes",
+      "pdf": {
+        "silver": "Yes",
+        "gold": "Yes",
+        "platinum": "Yes",
+        "ultimate": "Yes"
+      }
+    },
+    "courtesycar": {
+      "screen": "No",
+      "pdf": {
+        "silver": "No",
+        "gold": "No",
+        "platinum": "No",
+        "ultimate": "No"
+      }
+    },
+    "prices": {
+      "screen": {
+        "silver": "233.00",
+        "gold": "687.00",
+        "platinum": "1,349.00",
+        "ultimate": "2,570.00"
+      },
+      "pdf": {
+        "silver": "233.00",
+        "gold": "687.00",
+        "platinum": "1,349.00",
+        "ultimate": "2,570.00"
+      }
+    }
+  },
+  {
+    "Test_ID": "3",
+    "make": {
+      "screen": "BMW",
+      "pdf": {
+        "silver": "BMW",
+        "gold": "BMW",
+        "platinum": "BMW",
+        "ultimate": "BMW"
+      }
+    },
+    "fueltype": {
+      "screen": "Petrol",
+      "pdf": {
+        "silver": "Petrol",
+        "gold": "Petrol",
+        "platinum": "Petrol",
+        "ultimate": "Petrol"
+      }
+    },
+    "birthdate": {
+      "screen": "4/5/2000",
+      "pdf": {
+        "silver": "4/5/2000",
+        "gold": "4/5/2000",
+        "platinum": "4/5/2000",
+        "ultimate": "4/5/2000"
+      }
+    },
+    "occupation": {
+      "screen": "Employee",
+      "pdf": {
+        "silver": "Employee",
+        "gold": "Employee",
+        "platinum": "Employee",
+        "ultimate": "Employee"
+      }
+    },
+    "insurance": {
+      "screen": "Full Coverage",
+      "pdf": {
+        "silver": "Full Coverage",
+        "gold": "Full Coverage",
+        "platinum": "Full Coverage",
+        "ultimate": "Full Coverage"
+      }
+    },
+    "dateofmanufacture": {
+      "screen": "1/1/2020",
+      "pdf": {
+        "silver": "1/1/2020",
+        "gold": "1/1/2020",
+        "platinum": "1/1/2020",
+        "ultimate": "1/1/2020"
+      }
+    },
+    "seats": {
+      "screen": "4",
+      "pdf": {
+        "silver": "4",
+        "gold": "4",
+        "platinum": "4",
+        "ultimate": "4"
+      }
+    },
+    "annual mileage": {
+      "screen": "15000",
+      "pdf": {
+        "silver": "15000",
+        "gold": "15000",
+        "platinum": "15000",
+        "ultimate": "15000"
+      }
+    },
+    "insurancesum": {
+      "screen": "7000000",
+      "pdf": {
+        "silver": "7000000",
+        "gold": "7000000",
+        "platinum": "7000000",
+        "ultimate": "7000000"
+      }
+    },
+    "merit rating": {
+      "screen": "Bonus 1",
+      "pdf": {
+        "silver": "Bonus 1",
+        "gold": "Bonus 1",
+        "platinum": "Bonus 1",
+        "ultimate": "Bonus 1"
+      }
+    },
+    "legal defense insurance": {
+      "screen": "No",
+      "pdf": {
+        "silver": "",
+        "gold": "",
+        "platinum": "",
+        "ultimate": ""
+      }
+    },
+    "europrotection": {
+      "screen": "Yes",
+      "pdf": {
+        "silver": "Yes",
+        "gold": "Yes",
+        "platinum": "Yes",
+        "ultimate": "Yes"
+      }
+    },
+    "courtesycar": {
+      "screen": "No",
+      "pdf": {
+        "silver": "No",
+        "gold": "No",
+        "platinum": "No",
+        "ultimate": "No"
+      }
+    },
+    "prices": {
+      "screen": {
+        "silver": "233.00",
+        "gold": "688.00",
+        "platinum": "1,351.00",
+        "ultimate": "2,575.00"
+      },
+      "pdf": {
+        "silver": "233.00",
+        "gold": "688.00",
+        "platinum": "1,351.00",
+        "ultimate": "2,575.00"
+      }
+    }
+  },
+  {
+    "Test_ID": "4",
+    "make": {
+      "screen": "BMW",
+      "pdf": {
+        "silver": "BMW",
+        "gold": "BMW",
+        "platinum": "BMW",
+        "ultimate": "BMW"
+      }
+    },
+    "fueltype": {
+      "screen": "Petrol",
+      "pdf": {
+        "silver": "Petrol",
+        "gold": "Petrol",
+        "platinum": "Petrol",
+        "ultimate": "Petrol"
+      }
+    },
+    "birthdate": {
+      "screen": "4/5/2000",
+      "pdf": {
+        "silver": "4/5/2000",
+        "gold": "4/5/2000",
+        "platinum": "4/5/2000",
+        "ultimate": "4/5/2000"
+      }
+    },
+    "occupation": {
+      "screen": "Employee",
+      "pdf": {
+        "silver": "Employee",
+        "gold": "Employee",
+        "platinum": "Employee",
+        "ultimate": "Employee"
+      }
+    },
+    "insurance": {
+      "screen": "Full Coverage",
+      "pdf": {
+        "silver": "Full Coverage",
+        "gold": "Full Coverage",
+        "platinum": "Full Coverage",
+        "ultimate": "Full Coverage"
+      }
+    },
+    "dateofmanufacture": {
+      "screen": "1/1/2020",
+      "pdf": {
+        "silver": "1/1/2020",
+        "gold": "1/1/2020",
+        "platinum": "1/1/2020",
+        "ultimate": "1/1/2020"
+      }
+    },
+    "seats": {
+      "screen": "4",
+      "pdf": {
+        "silver": "4",
+        "gold": "4",
+        "platinum": "4",
+        "ultimate": "4"
+      }
+    },
+    "annual mileage": {
+      "screen": "15000",
+      "pdf": {
+        "silver": "15000",
+        "gold": "15000",
+        "platinum": "15000",
+        "ultimate": "15000"
+      }
+    },
+    "insurancesum": {
+      "screen": "10000000",
+      "pdf": {
+        "silver": "10000000",
+        "gold": "10000000",
+        "platinum": "10000000",
+        "ultimate": "10000000"
+      }
+    },
+    "merit rating": {
+      "screen": "Bonus 1",
+      "pdf": {
+        "silver": "Bonus 1",
+        "gold": "Bonus 1",
+        "platinum": "Bonus 1",
+        "ultimate": "Bonus 1"
+      }
+    },
+    "legal defense insurance": {
+      "screen": "No",
+      "pdf": {
+        "silver": "",
+        "gold": "",
+        "platinum": "",
+        "ultimate": ""
+      }
+    },
+    "europrotection": {
+      "screen": "Yes",
+      "pdf": {
+        "silver": "Yes",
+        "gold": "Yes",
+        "platinum": "Yes",
+        "ultimate": "Yes"
+      }
+    },
+    "courtesycar": {
+      "screen": "No",
+      "pdf": {
+        "silver": "No",
+        "gold": "No",
+        "platinum": "No",
+        "ultimate": "No"
+      }
+    },
+    "prices": {
+      "screen": {
+        "silver": "234.00",
+        "gold": "690.00",
+        "platinum": "1,355.00",
+        "ultimate": "2,582.00"
+      },
+      "pdf": {
+        "silver": "234.00",
+        "gold": "690.00",
+        "platinum": "1,355.00",
+        "ultimate": "2,582.00"
+      }
+    }
+  },
+  {
+    "Test_ID": "5",
+    "make": {
+      "screen": "BMW",
+      "pdf": {
+        "silver": "BMW",
+        "gold": "BMW",
+        "platinum": "BMW",
+        "ultimate": "BMW"
+      }
+    },
+    "fueltype": {
+      "screen": "Petrol",
+      "pdf": {
+        "silver": "Petrol",
+        "gold": "Petrol",
+        "platinum": "Petrol",
+        "ultimate": "Petrol"
+      }
+    },
+    "birthdate": {
+      "screen": "4/5/2000",
+      "pdf": {
+        "silver": "4/5/2000",
+        "gold": "4/5/2000",
+        "platinum": "4/5/2000",
+        "ultimate": "4/5/2000"
+      }
+    },
+    "occupation": {
+      "screen": "Employee",
+      "pdf": {
+        "silver": "Employee",
+        "gold": "Employee",
+        "platinum": "Employee",
+        "ultimate": "Employee"
+      }
+    },
+    "insurance": {
+      "screen": "Full Coverage",
+      "pdf": {
+        "silver": "Full Coverage",
+        "gold": "Full Coverage",
+        "platinum": "Full Coverage",
+        "ultimate": "Full Coverage"
+      }
+    },
+    "dateofmanufacture": {
+      "screen": "1/1/2020",
+      "pdf": {
+        "silver": "1/1/2020",
+        "gold": "1/1/2020",
+        "platinum": "1/1/2020",
+        "ultimate": "1/1/2020"
+      }
+    },
+    "seats": {
+      "screen": "4",
+      "pdf": {
+        "silver": "4",
+        "gold": "4",
+        "platinum": "4",
+        "ultimate": "4"
+      }
+    },
+    "annual mileage": {
+      "screen": "15000",
+      "pdf": {
+        "silver": "15000",
+        "gold": "15000",
+        "platinum": "15000",
+        "ultimate": "15000"
+      }
+    },
+    "insurancesum": {
+      "screen": "15000000",
+      "pdf": {
+        "silver": "15000000",
+        "gold": "15000000",
+        "platinum": "15000000",
+        "ultimate": "15000000"
+      }
+    },
+    "merit rating": {
+      "screen": "Bonus 1",
+      "pdf": {
+        "silver": "Bonus 1",
+        "gold": "Bonus 1",
+        "platinum": "Bonus 1",
+        "ultimate": "Bonus 1"
+      }
+    },
+    "legal defense insurance": {
+      "screen": "No",
+      "pdf": {
+        "silver": "",
+        "gold": "",
+        "platinum": "",
+        "ultimate": ""
+      }
+    },
+    "europrotection": {
+      "screen": "Yes",
+      "pdf": {
+        "silver": "Yes",
+        "gold": "Yes",
+        "platinum": "Yes",
+        "ultimate": "Yes"
+      }
+    },
+    "courtesycar": {
+      "screen": "No",
+      "pdf": {
+        "silver": "No",
+        "gold": "No",
+        "platinum": "No",
+        "ultimate": "No"
+      }
+    },
+    "prices": {
+      "screen": {
+        "silver": "235.00",
+        "gold": "694.00",
+        "platinum": "1,362.00",
+        "ultimate": "2,594.00"
+      },
+      "pdf": {
+        "silver": "235.00",
+        "gold": "694.00",
+        "platinum": "1,362.00",
+        "ultimate": "2,594.00"
+      }
+    }
+  },
+  {
+    "Test_ID": "6",
+    "make": {
+      "screen": "BMW",
+      "pdf": {
+        "silver": "BMW",
+        "gold": "BMW",
+        "platinum": "BMW",
+        "ultimate": "BMW"
+      }
+    },
+    "fueltype": {
+      "screen": "Petrol",
+      "pdf": {
+        "silver": "Petrol",
+        "gold": "Petrol",
+        "platinum": "Petrol",
+        "ultimate": "Petrol"
+      }
+    },
+    "birthdate": {
+      "screen": "4/5/2000",
+      "pdf": {
+        "silver": "4/5/2000",
+        "gold": "4/5/2000",
+        "platinum": "4/5/2000",
+        "ultimate": "4/5/2000"
+      }
+    },
+    "occupation": {
+      "screen": "Employee",
+      "pdf": {
+        "silver": "Employee",
+        "gold": "Employee",
+        "platinum": "Employee",
+        "ultimate": "Employee"
+      }
+    },
+    "insurance": {
+      "screen": "Full Coverage",
+      "pdf": {
+        "silver": "Full Coverage",
+        "gold": "Full Coverage",
+        "platinum": "Full Coverage",
+        "ultimate": "Full Coverage"
+      }
+    },
+    "dateofmanufacture": {
+      "screen": "1/1/2020",
+      "pdf": {
+        "silver": "1/1/2020",
+        "gold": "1/1/2020",
+        "platinum": "1/1/2020",
+        "ultimate": "1/1/2020"
+      }
+    },
+    "seats": {
+      "screen": "4",
+      "pdf": {
+        "silver": "4",
+        "gold": "4",
+        "platinum": "4",
+        "ultimate": "4"
+      }
+    },
+    "annual mileage": {
+      "screen": "15000",
+      "pdf": {
+        "silver": "15000",
+        "gold": "15000",
+        "platinum": "15000",
+        "ultimate": "15000"
+      }
+    },
+    "insurancesum": {
+      "screen": "20000000",
+      "pdf": {
+        "silver": "20000000",
+        "gold": "20000000",
+        "platinum": "20000000",
+        "ultimate": "20000000"
+      }
+    },
+    "merit rating": {
+      "screen": "Bonus 1",
+      "pdf": {
+        "silver": "Bonus 1",
+        "gold": "Bonus 1",
+        "platinum": "Bonus 1",
+        "ultimate": "Bonus 1"
+      }
+    },
+    "legal defense insurance": {
+      "screen": "No",
+      "pdf": {
+        "silver": "",
+        "gold": "",
+        "platinum": "",
+        "ultimate": ""
+      }
+    },
+    "europrotection": {
+      "screen": "Yes",
+      "pdf": {
+        "silver": "Yes",
+        "gold": "Yes",
+        "platinum": "Yes",
+        "ultimate": "Yes"
+      }
+    },
+    "courtesycar": {
+      "screen": "No",
+      "pdf": {
+        "silver": "No",
+        "gold": "No",
+        "platinum": "No",
+        "ultimate": "No"
+      }
+    },
+    "prices": {
+      "screen": {
+        "silver": "236.00",
+        "gold": "697.00",
+        "platinum": "1,368.00",
+        "ultimate": "2,606.00"
+      },
+      "pdf": {
+        "silver": "236.00",
+        "gold": "697.00",
+        "platinum": "1,368.00",
+        "ultimate": "2,606.00"
+      }
+    }
+  },
+  {
+    "Test_ID": "7",
+    "make": {
+      "screen": "BMW",
+      "pdf": {
+        "silver": "BMW",
+        "gold": "BMW",
+        "platinum": "BMW",
+        "ultimate": "BMW"
+      }
+    },
+    "fueltype": {
+      "screen": "Petrol",
+      "pdf": {
+        "silver": "Petrol",
+        "gold": "Petrol",
+        "platinum": "Petrol",
+        "ultimate": "Petrol"
+      }
+    },
+    "birthdate": {
+      "screen": "4/5/2000",
+      "pdf": {
+        "silver": "4/5/2000",
+        "gold": "4/5/2000",
+        "platinum": "4/5/2000",
+        "ultimate": "4/5/2000"
+      }
+    },
+    "occupation": {
+      "screen": "Employee",
+      "pdf": {
+        "silver": "Employee",
+        "gold": "Employee",
+        "platinum": "Employee",
+        "ultimate": "Employee"
+      }
+    },
+    "insurance": {
+      "screen": "Full Coverage",
+      "pdf": {
+        "silver": "Full Coverage",
+        "gold": "Full Coverage",
+        "platinum": "Full Coverage",
+        "ultimate": "Full Coverage"
+      }
+    },
+    "dateofmanufacture": {
+      "screen": "1/1/2020",
+      "pdf": {
+        "silver": "1/1/2020",
+        "gold": "1/1/2020",
+        "platinum": "1/1/2020",
+        "ultimate": "1/1/2020"
+      }
+    },
+    "seats": {
+      "screen": "4",
+      "pdf": {
+        "silver": "4",
+        "gold": "4",
+        "platinum": "4",
+        "ultimate": "4"
+      }
+    },
+    "annual mileage": {
+      "screen": "15000",
+      "pdf": {
+        "silver": "15000",
+        "gold": "15000",
+        "platinum": "15000",
+        "ultimate": "15000"
+      }
+    },
+    "insurancesum": {
+      "screen": "25000000",
+      "pdf": {
+        "silver": "25000000",
+        "gold": "25000000",
+        "platinum": "25000000",
+        "ultimate": "25000000"
+      }
+    },
+    "merit rating": {
+      "screen": "Bonus 1",
+      "pdf": {
+        "silver": "Bonus 1",
+        "gold": "Bonus 1",
+        "platinum": "Bonus 1",
+        "ultimate": "Bonus 1"
+      }
+    },
+    "legal defense insurance": {
+      "screen": "No",
+      "pdf": {
+        "silver": "",
+        "gold": "",
+        "platinum": "",
+        "ultimate": ""
+      }
+    },
+    "europrotection": {
+      "screen": "Yes",
+      "pdf": {
+        "silver": "Yes",
+        "gold": "Yes",
+        "platinum": "Yes",
+        "ultimate": "Yes"
+      }
+    },
+    "courtesycar": {
+      "screen": "No",
+      "pdf": {
+        "silver": "No",
+        "gold": "No",
+        "platinum": "No",
+        "ultimate": "No"
+      }
+    },
+    "prices": {
+      "screen": {
+        "silver": "237.00",
+        "gold": "700.00",
+        "platinum": "1,374.00",
+        "ultimate": "2,618.00"
+      },
+      "pdf": {
+        "silver": "237.00",
+        "gold": "700.00",
+        "platinum": "1,374.00",
+        "ultimate": "2,618.00"
+      }
+    }
+  },
+  {
+    "Test_ID": "8",
+    "make": {
+      "screen": "BMW",
+      "pdf": {
+        "silver": "BMW",
+        "gold": "BMW",
+        "platinum": "BMW",
+        "ultimate": "BMW"
+      }
+    },
+    "fueltype": {
+      "screen": "Petrol",
+      "pdf": {
+        "silver": "Petrol",
+        "gold": "Petrol",
+        "platinum": "Petrol",
+        "ultimate": "Petrol"
+      }
+    },
+    "birthdate": {
+      "screen": "4/5/2000",
+      "pdf": {
+        "silver": "4/5/2000",
+        "gold": "4/5/2000",
+        "platinum": "4/5/2000",
+        "ultimate": "4/5/2000"
+      }
+    },
+    "occupation": {
+      "screen": "Employee",
+      "pdf": {
+        "silver": "Employee",
+        "gold": "Employee",
+        "platinum": "Employee",
+        "ultimate": "Employee"
+      }
+    },
+    "insurance": {
+      "screen": "Full Coverage",
+      "pdf": {
+        "silver": "Full Coverage",
+        "gold": "Full Coverage",
+        "platinum": "Full Coverage",
+        "ultimate": "Full Coverage"
+      }
+    },
+    "dateofmanufacture": {
+      "screen": "1/1/2020",
+      "pdf": {
+        "silver": "1/1/2020",
+        "gold": "1/1/2020",
+        "platinum": "1/1/2020",
+        "ultimate": "1/1/2020"
+      }
+    },
+    "seats": {
+      "screen": "4",
+      "pdf": {
+        "silver": "4",
+        "gold": "4",
+        "platinum": "4",
+        "ultimate": "4"
+      }
+    },
+    "annual mileage": {
+      "screen": "15000",
+      "pdf": {
+        "silver": "15000",
+        "gold": "15000",
+        "platinum": "15000",
+        "ultimate": "15000"
+      }
+    },
+    "insurancesum": {
+      "screen": "30000000",
+      "pdf": {
+        "silver": "30000000",
+        "gold": "30000000",
+        "platinum": "30000000",
+        "ultimate": "30000000"
+      }
+    },
+    "merit rating": {
+      "screen": "Bonus 1",
+      "pdf": {
+        "silver": "Bonus 1",
+        "gold": "Bonus 1",
+        "platinum": "Bonus 1",
+        "ultimate": "Bonus 1"
+      }
+    },
+    "legal defense insurance": {
+      "screen": "No",
+      "pdf": {
+        "silver": "",
+        "gold": "",
+        "platinum": "",
+        "ultimate": ""
+      }
+    },
+    "europrotection": {
+      "screen": "Yes",
+      "pdf": {
+        "silver": "Yes",
+        "gold": "Yes",
+        "platinum": "Yes",
+        "ultimate": "Yes"
+      }
+    },
+    "courtesycar": {
+      "screen": "No",
+      "pdf": {
+        "silver": "No",
+        "gold": "No",
+        "platinum": "No",
+        "ultimate": "No"
+      }
+    },
+    "prices": {
+      "screen": {
+        "silver": "238.00",
+        "gold": "703.00",
+        "platinum": "1,381.00",
+        "ultimate": "2,630.00"
+      },
+      "pdf": {
+        "silver": "238.00",
+        "gold": "703.00",
+        "platinum": "1,381.00",
+        "ultimate": "2,630.00"
+      }
+    }
+  },
+  {
+    "Test_ID": "9",
+    "make": {
+      "screen": "BMW",
+      "pdf": {
+        "silver": "BMW",
+        "gold": "BMW",
+        "platinum": "BMW",
+        "ultimate": "BMW"
+      }
+    },
+    "fueltype": {
+      "screen": "Petrol",
+      "pdf": {
+        "silver": "Petrol",
+        "gold": "Petrol",
+        "platinum": "Petrol",
+        "ultimate": "Petrol"
+      }
+    },
+    "birthdate": {
+      "screen": "4/5/2000",
+      "pdf": {
+        "silver": "4/5/2000",
+        "gold": "4/5/2000",
+        "platinum": "4/5/2000",
+        "ultimate": "4/5/2000"
+      }
+    },
+    "occupation": {
+      "screen": "Employee",
+      "pdf": {
+        "silver": "Employee",
+        "gold": "Employee",
+        "platinum": "Employee",
+        "ultimate": "Employee"
+      }
+    },
+    "insurance": {
+      "screen": "Full Coverage",
+      "pdf": {
+        "silver": "Full Coverage",
+        "gold": "Full Coverage",
+        "platinum": "Full Coverage",
+        "ultimate": "Full Coverage"
+      }
+    },
+    "dateofmanufacture": {
+      "screen": "1/1/2020",
+      "pdf": {
+        "silver": "1/1/2020",
+        "gold": "1/1/2020",
+        "platinum": "1/1/2020",
+        "ultimate": "1/1/2020"
+      }
+    },
+    "seats": {
+      "screen": "4",
+      "pdf": {
+        "silver": "4",
+        "gold": "4",
+        "platinum": "4",
+        "ultimate": "4"
+      }
+    },
+    "annual mileage": {
+      "screen": "15000",
+      "pdf": {
+        "silver": "15000",
+        "gold": "15000",
+        "platinum": "15000",
+        "ultimate": "15000"
+      }
+    },
+    "insurancesum": {
+      "screen": "35000000",
+      "pdf": {
+        "silver": "35000000",
+        "gold": "35000000",
+        "platinum": "35000000",
+        "ultimate": "35000000"
+      }
+    },
+    "merit rating": {
+      "screen": "Bonus 1",
+      "pdf": {
+        "silver": "Bonus 1",
+        "gold": "Bonus 1",
+        "platinum": "Bonus 1",
+        "ultimate": "Bonus 1"
+      }
+    },
+    "legal defense insurance": {
+      "screen": "No",
+      "pdf": {
+        "silver": "",
+        "gold": "",
+        "platinum": "",
+        "ultimate": ""
+      }
+    },
+    "europrotection": {
+      "screen": "Yes",
+      "pdf": {
+        "silver": "Yes",
+        "gold": "Yes",
+        "platinum": "Yes",
+        "ultimate": "Yes"
+      }
+    },
+    "courtesycar": {
+      "screen": "No",
+      "pdf": {
+        "silver": "No",
+        "gold": "No",
+        "platinum": "No",
+        "ultimate": "No"
+      }
+    },
+    "prices": {
+      "screen": {
+        "silver": "240.00",
+        "gold": "707.00",
+        "platinum": "1,387.00",
+        "ultimate": "2,643.00"
+      },
+      "pdf": {
+        "silver": "240.00",
+        "gold": "707.00",
+        "platinum": "1,387.00",
+        "ultimate": "2,643.00"
+      }
+    }
+  },
+  {
+    "Test_ID": "10",
+    "make": {
+      "screen": "BMW",
+      "pdf": {
+        "silver": "BMW",
+        "gold": "BMW",
+        "platinum": "BMW",
+        "ultimate": "BMW"
+      }
+    },
+    "fueltype": {
+      "screen": "Petrol",
+      "pdf": {
+        "silver": "Petrol",
+        "gold": "Petrol",
+        "platinum": "Petrol",
+        "ultimate": "Petrol"
+      }
+    },
+    "birthdate": {
+      "screen": "4/5/2000",
+      "pdf": {
+        "silver": "4/5/2000",
+        "gold": "4/5/2000",
+        "platinum": "4/5/2000",
+        "ultimate": "4/5/2000"
+      }
+    },
+    "occupation": {
+      "screen": "Employee",
+      "pdf": {
+        "silver": "Employee",
+        "gold": "Employee",
+        "platinum": "Employee",
+        "ultimate": "Employee"
+      }
+    },
+    "insurance": {
+      "screen": "Full Coverage",
+      "pdf": {
+        "silver": "Full Coverage",
+        "gold": "Full Coverage",
+        "platinum": "Full Coverage",
+        "ultimate": "Full Coverage"
+      }
+    },
+    "dateofmanufacture": {
+      "screen": "1/1/2020",
+      "pdf": {
+        "silver": "1/1/2020",
+        "gold": "1/1/2020",
+        "platinum": "1/1/2020",
+        "ultimate": "1/1/2020"
+      }
+    },
+    "seats": {
+      "screen": "4",
+      "pdf": {
+        "silver": "4",
+        "gold": "4",
+        "platinum": "4",
+        "ultimate": "4"
+      }
+    },
+    "annual mileage": {
+      "screen": "15000",
+      "pdf": {
+        "silver": "15000",
+        "gold": "15000",
+        "platinum": "15000",
+        "ultimate": "15000"
+      }
+    },
+    "insurancesum": {
+      "screen": "3000000",
+      "pdf": {
+        "silver": "3000000",
+        "gold": "3000000",
+        "platinum": "3000000",
+        "ultimate": "3000000"
+      }
+    },
+    "merit rating": {
+      "screen": "Bonus 1",
+      "pdf": {
+        "silver": "Bonus 1",
+        "gold": "Bonus 1",
+        "platinum": "Bonus 1",
+        "ultimate": "Bonus 1"
+      }
+    },
+    "legal defense insurance": {
+      "screen": "No",
+      "pdf": {
+        "silver": "",
+        "gold": "",
+        "platinum": "",
+        "ultimate": ""
+      }
+    },
+    "europrotection": {
+      "screen": "Yes",
+      "pdf": {
+        "silver": "Yes",
+        "gold": "Yes",
+        "platinum": "Yes",
+        "ultimate": "Yes"
+      }
+    },
+    "courtesycar": {
+      "screen": "No",
+      "pdf": {
+        "silver": "No",
+        "gold": "No",
+        "platinum": "No",
+        "ultimate": "No"
+      }
+    },
+    "prices": {
+      "screen": {
+        "silver": "71.00",
+        "gold": "211.00",
+        "platinum": "414.00",
+        "ultimate": "790.00"
+      },
+      "pdf": {
+        "silver": "71.00",
+        "gold": "211.00",
+        "platinum": "414.00",
+        "ultimate": "790.00"
+      }
+    }
+  },
+  {
+    "Test_ID": "11",
+    "make": {
+      "screen": "BMW",
+      "pdf": {
+        "silver": "BMW",
+        "gold": "BMW",
+        "platinum": "BMW",
+        "ultimate": "BMW"
+      }
+    },
+    "fueltype": {
+      "screen": "Petrol",
+      "pdf": {
+        "silver": "Petrol",
+        "gold": "Petrol",
+        "platinum": "Petrol",
+        "ultimate": "Petrol"
+      }
+    },
+    "birthdate": {
+      "screen": "4/5/2000",
+      "pdf": {
+        "silver": "4/5/2000",
+        "gold": "4/5/2000",
+        "platinum": "4/5/2000",
+        "ultimate": "4/5/2000"
+      }
+    },
+    "occupation": {
+      "screen": "Employee",
+      "pdf": {
+        "silver": "Employee",
+        "gold": "Employee",
+        "platinum": "Employee",
+        "ultimate": "Employee"
+      }
+    },
+    "insurance": {
+      "screen": "Full Coverage",
+      "pdf": {
+        "silver": "Full Coverage",
+        "gold": "Full Coverage",
+        "platinum": "Full Coverage",
+        "ultimate": "Full Coverage"
+      }
+    },
+    "dateofmanufacture": {
+      "screen": "1/1/2020",
+      "pdf": {
+        "silver": "1/1/2020",
+        "gold": "1/1/2020",
+        "platinum": "1/1/2020",
+        "ultimate": "1/1/2020"
+      }
+    },
+    "seats": {
+      "screen": "4",
+      "pdf": {
+        "silver": "4",
+        "gold": "4",
+        "platinum": "4",
+        "ultimate": "4"
+      }
+    },
+    "annual mileage": {
+      "screen": "15000",
+      "pdf": {
+        "silver": "15000",
+        "gold": "15000",
+        "platinum": "15000",
+        "ultimate": "15000"
+      }
+    },
+    "insurancesum": {
+      "screen": "5000000",
+      "pdf": {
+        "silver": "5000000",
+        "gold": "5000000",
+        "platinum": "5000000",
+        "ultimate": "5000000"
+      }
+    },
+    "merit rating": {
+      "screen": "Bonus 1",
+      "pdf": {
+        "silver": "Bonus 1",
+        "gold": "Bonus 1",
+        "platinum": "Bonus 1",
+        "ultimate": "Bonus 1"
+      }
+    },
+    "legal defense insurance": {
+      "screen": "No",
+      "pdf": {
+        "silver": "",
+        "gold": "",
+        "platinum": "",
+        "ultimate": ""
+      }
+    },
+    "europrotection": {
+      "screen": "Yes",
+      "pdf": {
+        "silver": "Yes",
+        "gold": "Yes",
+        "platinum": "Yes",
+        "ultimate": "Yes"
+      }
+    },
+    "courtesycar": {
+      "screen": "No",
+      "pdf": {
+        "silver": "No",
+        "gold": "No",
+        "platinum": "No",
+        "ultimate": "No"
+      }
+    },
+    "prices": {
+      "screen": {
+        "silver": "186.00",
+        "gold": "550.00",
+        "platinum": "1,079.00",
+        "ultimate": "2,056.00"
+      },
+      "pdf": {
+        "silver": "186.00",
+        "gold": "550.00",
+        "platinum": "1,079.00",
+        "ultimate": "2,056.00"
+      }
+    }
+  },
+  {
+    "Test_ID": "12",
+    "make": {
+      "screen": "BMW",
+      "pdf": {
+        "silver": "BMW",
+        "gold": "BMW",
+        "platinum": "BMW",
+        "ultimate": "BMW"
+      }
+    },
+    "fueltype": {
+      "screen": "Petrol",
+      "pdf": {
+        "silver": "Petrol",
+        "gold": "Petrol",
+        "platinum": "Petrol",
+        "ultimate": "Petrol"
+      }
+    },
+    "birthdate": {
+      "screen": "4/5/2000",
+      "pdf": {
+        "silver": "4/5/2000",
+        "gold": "4/5/2000",
+        "platinum": "4/5/2000",
+        "ultimate": "4/5/2000"
+      }
+    },
+    "occupation": {
+      "screen": "Employee",
+      "pdf": {
+        "silver": "Employee",
+        "gold": "Employee",
+        "platinum": "Employee",
+        "ultimate": "Employee"
+      }
+    },
+    "insurance": {
+      "screen": "Full Coverage",
+      "pdf": {
+        "silver": "Full Coverage",
+        "gold": "Full Coverage",
+        "platinum": "Full Coverage",
+        "ultimate": "Full Coverage"
+      }
+    },
+    "dateofmanufacture": {
+      "screen": "1/1/2020",
+      "pdf": {
+        "silver": "1/1/2020",
+        "gold": "1/1/2020",
+        "platinum": "1/1/2020",
+        "ultimate": "1/1/2020"
+      }
+    },
+    "seats": {
+      "screen": "4",
+      "pdf": {
+        "silver": "4",
+        "gold": "4",
+        "platinum": "4",
+        "ultimate": "4"
+      }
+    },
+    "annual mileage": {
+      "screen": "15000",
+      "pdf": {
+        "silver": "15000",
+        "gold": "15000",
+        "platinum": "15000",
+        "ultimate": "15000"
+      }
+    },
+    "insurancesum": {
+      "screen": "7000000",
+      "pdf": {
+        "silver": "7000000",
+        "gold": "7000000",
+        "platinum": "7000000",
+        "ultimate": "7000000"
+      }
+    },
+    "merit rating": {
+      "screen": "Bonus 1",
+      "pdf": {
+        "silver": "Bonus 1",
+        "gold": "Bonus 1",
+        "platinum": "Bonus 1",
+        "ultimate": "Bonus 1"
+      }
+    },
+    "legal defense insurance": {
+      "screen": "No",
+      "pdf": {
+        "silver": "",
+        "gold": "",
+        "platinum": "",
+        "ultimate": ""
+      }
+    },
+    "europrotection": {
+      "screen": "Yes",
+      "pdf": {
+        "silver": "Yes",
+        "gold": "Yes",
+        "platinum": "Yes",
+        "ultimate": "Yes"
+      }
+    },
+    "courtesycar": {
+      "screen": "No",
+      "pdf": {
+        "silver": "No",
+        "gold": "No",
+        "platinum": "No",
+        "ultimate": "No"
+      }
+    },
+    "prices": {
+      "screen": {
+        "silver": "233.00",
+        "gold": "688.00",
+        "platinum": "1,351.00",
+        "ultimate": "2,575.00"
+      },
+      "pdf": {
+        "silver": "233.00",
+        "gold": "688.00",
+        "platinum": "1,351.00",
+        "ultimate": "2,575.00"
+      }
+    }
+  },
+  {
+    "Test_ID": "13",
+    "make": {
+      "screen": "BMW",
+      "pdf": {
+        "silver": "BMW",
+        "gold": "BMW",
+        "platinum": "BMW",
+        "ultimate": "BMW"
+      }
+    },
+    "fueltype": {
+      "screen": "Petrol",
+      "pdf": {
+        "silver": "Petrol",
+        "gold": "Petrol",
+        "platinum": "Petrol",
+        "ultimate": "Petrol"
+      }
+    },
+    "birthdate": {
+      "screen": "4/5/2000",
+      "pdf": {
+        "silver": "4/5/2000",
+        "gold": "4/5/2000",
+        "platinum": "4/5/2000",
+        "ultimate": "4/5/2000"
+      }
+    },
+    "occupation": {
+      "screen": "Employee",
+      "pdf": {
+        "silver": "Employee",
+        "gold": "Employee",
+        "platinum": "Employee",
+        "ultimate": "Employee"
+      }
+    },
+    "insurance": {
+      "screen": "Full Coverage",
+      "pdf": {
+        "silver": "Full Coverage",
+        "gold": "Full Coverage",
+        "platinum": "Full Coverage",
+        "ultimate": "Full Coverage"
+      }
+    },
+    "dateofmanufacture": {
+      "screen": "1/1/2020",
+      "pdf": {
+        "silver": "1/1/2020",
+        "gold": "1/1/2020",
+        "platinum": "1/1/2020",
+        "ultimate": "1/1/2020"
+      }
+    },
+    "seats": {
+      "screen": "4",
+      "pdf": {
+        "silver": "4",
+        "gold": "4",
+        "platinum": "4",
+        "ultimate": "4"
+      }
+    },
+    "annual mileage": {
+      "screen": "15000",
+      "pdf": {
+        "silver": "15000",
+        "gold": "15000",
+        "platinum": "15000",
+        "ultimate": "15000"
+      }
+    },
+    "insurancesum": {
+      "screen": "10000000",
+      "pdf": {
+        "silver": "10000000",
+        "gold": "10000000",
+        "platinum": "10000000",
+        "ultimate": "10000000"
+      }
+    },
+    "merit rating": {
+      "screen": "Bonus 1",
+      "pdf": {
+        "silver": "Bonus 1",
+        "gold": "Bonus 1",
+        "platinum": "Bonus 1",
+        "ultimate": "Bonus 1"
+      }
+    },
+    "legal defense insurance": {
+      "screen": "No",
+      "pdf": {
+        "silver": "",
+        "gold": "",
+        "platinum": "",
+        "ultimate": ""
+      }
+    },
+    "europrotection": {
+      "screen": "Yes",
+      "pdf": {
+        "silver": "Yes",
+        "gold": "Yes",
+        "platinum": "Yes",
+        "ultimate": "Yes"
+      }
+    },
+    "courtesycar": {
+      "screen": "No",
+      "pdf": {
+        "silver": "No",
+        "gold": "No",
+        "platinum": "No",
+        "ultimate": "No"
+      }
+    },
+    "prices": {
+      "screen": {
+        "silver": "234.00",
+        "gold": "690.00",
+        "platinum": "1,355.00",
+        "ultimate": "2,582.00"
+      },
+      "pdf": {
+        "silver": "234.00",
+        "gold": "690.00",
+        "platinum": "1,355.00",
+        "ultimate": "2,582.00"
+      }
+    }
+  },
+  {
+    "Test_ID": "14",
+    "make": {
+      "screen": "BMW",
+      "pdf": {
+        "silver": "BMW",
+        "gold": "BMW",
+        "platinum": "BMW",
+        "ultimate": "BMW"
+      }
+    },
+    "fueltype": {
+      "screen": "Petrol",
+      "pdf": {
+        "silver": "Petrol",
+        "gold": "Petrol",
+        "platinum": "Petrol",
+        "ultimate": "Petrol"
+      }
+    },
+    "birthdate": {
+      "screen": "4/5/2000",
+      "pdf": {
+        "silver": "4/5/2000",
+        "gold": "4/5/2000",
+        "platinum": "4/5/2000",
+        "ultimate": "4/5/2000"
+      }
+    },
+    "occupation": {
+      "screen": "Employee",
+      "pdf": {
+        "silver": "Employee",
+        "gold": "Employee",
+        "platinum": "Employee",
+        "ultimate": "Employee"
+      }
+    },
+    "insurance": {
+      "screen": "Full Coverage",
+      "pdf": {
+        "silver": "Full Coverage",
+        "gold": "Full Coverage",
+        "platinum": "Full Coverage",
+        "ultimate": "Full Coverage"
+      }
+    },
+    "dateofmanufacture": {
+      "screen": "1/1/2020",
+      "pdf": {
+        "silver": "1/1/2020",
+        "gold": "1/1/2020",
+        "platinum": "1/1/2020",
+        "ultimate": "1/1/2020"
+      }
+    },
+    "seats": {
+      "screen": "4",
+      "pdf": {
+        "silver": "4",
+        "gold": "4",
+        "platinum": "4",
+        "ultimate": "4"
+      }
+    },
+    "annual mileage": {
+      "screen": "15000",
+      "pdf": {
+        "silver": "15000",
+        "gold": "15000",
+        "platinum": "15000",
+        "ultimate": "15000"
+      }
+    },
+    "insurancesum": {
+      "screen": "15000000",
+      "pdf": {
+        "silver": "15000000",
+        "gold": "15000000",
+        "platinum": "15000000",
+        "ultimate": "15000000"
+      }
+    },
+    "merit rating": {
+      "screen": "Bonus 1",
+      "pdf": {
+        "silver": "Bonus 1",
+        "gold": "Bonus 1",
+        "platinum": "Bonus 1",
+        "ultimate": "Bonus 1"
+      }
+    },
+    "legal defense insurance": {
+      "screen": "No",
+      "pdf": {
+        "silver": "",
+        "gold": "",
+        "platinum": "",
+        "ultimate": ""
+      }
+    },
+    "europrotection": {
+      "screen": "Yes",
+      "pdf": {
+        "silver": "Yes",
+        "gold": "Yes",
+        "platinum": "Yes",
+        "ultimate": "Yes"
+      }
+    },
+    "courtesycar": {
+      "screen": "No",
+      "pdf": {
+        "silver": "No",
+        "gold": "No",
+        "platinum": "No",
+        "ultimate": "No"
+      }
+    },
+    "prices": {
+      "screen": {
+        "silver": "235.00",
+        "gold": "694.00",
+        "platinum": "1,362.00",
+        "ultimate": "2,594.00"
+      },
+      "pdf": {
+        "silver": "235.00",
+        "gold": "694.00",
+        "platinum": "1,362.00",
+        "ultimate": "2,594.00"
+      }
+    }
+  },
+  {
+    "Test_ID": "15",
+    "make": {
+      "screen": "BMW",
+      "pdf": {
+        "silver": "BMW",
+        "gold": "BMW",
+        "platinum": "BMW",
+        "ultimate": "BMW"
+      }
+    },
+    "fueltype": {
+      "screen": "Petrol",
+      "pdf": {
+        "silver": "Petrol",
+        "gold": "Petrol",
+        "platinum": "Petrol",
+        "ultimate": "Petrol"
+      }
+    },
+    "birthdate": {
+      "screen": "4/5/2000",
+      "pdf": {
+        "silver": "4/5/2000",
+        "gold": "4/5/2000",
+        "platinum": "4/5/2000",
+        "ultimate": "4/5/2000"
+      }
+    },
+    "occupation": {
+      "screen": "Employee",
+      "pdf": {
+        "silver": "Employee",
+        "gold": "Employee",
+        "platinum": "Employee",
+        "ultimate": "Employee"
+      }
+    },
+    "insurance": {
+      "screen": "Full Coverage",
+      "pdf": {
+        "silver": "Full Coverage",
+        "gold": "Full Coverage",
+        "platinum": "Full Coverage",
+        "ultimate": "Full Coverage"
+      }
+    },
+    "dateofmanufacture": {
+      "screen": "1/1/2020",
+      "pdf": {
+        "silver": "1/1/2020",
+        "gold": "1/1/2020",
+        "platinum": "1/1/2020",
+        "ultimate": "1/1/2020"
+      }
+    },
+    "seats": {
+      "screen": "4",
+      "pdf": {
+        "silver": "4",
+        "gold": "4",
+        "platinum": "4",
+        "ultimate": "4"
+      }
+    },
+    "annual mileage": {
+      "screen": "15000",
+      "pdf": {
+        "silver": "15000",
+        "gold": "15000",
+        "platinum": "15000",
+        "ultimate": "15000"
+      }
+    },
+    "insurancesum": {
+      "screen": "20000000",
+      "pdf": {
+        "silver": "20000000",
+        "gold": "20000000",
+        "platinum": "20000000",
+        "ultimate": "20000000"
+      }
+    },
+    "merit rating": {
+      "screen": "Bonus 1",
+      "pdf": {
+        "silver": "Bonus 1",
+        "gold": "Bonus 1",
+        "platinum": "Bonus 1",
+        "ultimate": "Bonus 1"
+      }
+    },
+    "legal defense insurance": {
+      "screen": "No",
+      "pdf": {
+        "silver": "",
+        "gold": "",
+        "platinum": "",
+        "ultimate": ""
+      }
+    },
+    "europrotection": {
+      "screen": "Yes",
+      "pdf": {
+        "silver": "Yes",
+        "gold": "Yes",
+        "platinum": "Yes",
+        "ultimate": "Yes"
+      }
+    },
+    "courtesycar": {
+      "screen": "No",
+      "pdf": {
+        "silver": "No",
+        "gold": "No",
+        "platinum": "No",
+        "ultimate": "No"
+      }
+    },
+    "prices": {
+      "screen": {
+        "silver": "237.00",
+        "gold": "700.00",
+        "platinum": "1,374.00",
+        "ultimate": "2,618.00"
+      },
+      "pdf": {
+        "silver": "237.00",
+        "gold": "700.00",
+        "platinum": "1,374.00",
+        "ultimate": "2,618.00"
+      }
+    }
+  },
+  {
+    "Test_ID": "16",
+    "make": {
+      "screen": "BMW",
+      "pdf": {
+        "silver": "BMW",
+        "gold": "BMW",
+        "platinum": "BMW",
+        "ultimate": "BMW"
+      }
+    },
+    "fueltype": {
+      "screen": "Petrol",
+      "pdf": {
+        "silver": "Petrol",
+        "gold": "Petrol",
+        "platinum": "Petrol",
+        "ultimate": "Petrol"
+      }
+    },
+    "birthdate": {
+      "screen": "4/5/2000",
+      "pdf": {
+        "silver": "4/5/2000",
+        "gold": "4/5/2000",
+        "platinum": "4/5/2000",
+        "ultimate": "4/5/2000"
+      }
+    },
+    "occupation": {
+      "screen": "Employee",
+      "pdf": {
+        "silver": "Employee",
+        "gold": "Employee",
+        "platinum": "Employee",
+        "ultimate": "Employee"
+      }
+    },
+    "insurance": {
+      "screen": "Full Coverage",
+      "pdf": {
+        "silver": "Full Coverage",
+        "gold": "Full Coverage",
+        "platinum": "Full Coverage",
+        "ultimate": "Full Coverage"
+      }
+    },
+    "dateofmanufacture": {
+      "screen": "1/1/2020",
+      "pdf": {
+        "silver": "1/1/2020",
+        "gold": "1/1/2020",
+        "platinum": "1/1/2020",
+        "ultimate": "1/1/2020"
+      }
+    },
+    "seats": {
+      "screen": "4",
+      "pdf": {
+        "silver": "4",
+        "gold": "4",
+        "platinum": "4",
+        "ultimate": "4"
+      }
+    },
+    "annual mileage": {
+      "screen": "15000",
+      "pdf": {
+        "silver": "15000",
+        "gold": "15000",
+        "platinum": "15000",
+        "ultimate": "15000"
+      }
+    },
+    "insurancesum": {
+      "screen": "25000000",
+      "pdf": {
+        "silver": "25000000",
+        "gold": "25000000",
+        "platinum": "25000000",
+        "ultimate": "25000000"
+      }
+    },
+    "merit rating": {
+      "screen": "Bonus 1",
+      "pdf": {
+        "silver": "Bonus 1",
+        "gold": "Bonus 1",
+        "platinum": "Bonus 1",
+        "ultimate": "Bonus 1"
+      }
+    },
+    "legal defense insurance": {
+      "screen": "No",
+      "pdf": {
+        "silver": "",
+        "gold": "",
+        "platinum": "",
+        "ultimate": ""
+      }
+    },
+    "europrotection": {
+      "screen": "Yes",
+      "pdf": {
+        "silver": "Yes",
+        "gold": "Yes",
+        "platinum": "Yes",
+        "ultimate": "Yes"
+      }
+    },
+    "courtesycar": {
+      "screen": "No",
+      "pdf": {
+        "silver": "No",
+        "gold": "No",
+        "platinum": "No",
+        "ultimate": "No"
+      }
+    },
+    "prices": {
+      "screen": {
+        "silver": "238.00",
+        "gold": "703.00",
+        "platinum": "1,381.00",
+        "ultimate": "2,630.00"
+      },
+      "pdf": {
+        "silver": "238.00",
+        "gold": "703.00",
+        "platinum": "1,381.00",
+        "ultimate": "2,630.00"
+      }
+    }
+  },
+  {
+    "Test_ID": "17",
+    "make": {
+      "screen": "BMW",
+      "pdf": {
+        "silver": "BMW",
+        "gold": "BMW",
+        "platinum": "BMW",
+        "ultimate": "BMW"
+      }
+    },
+    "fueltype": {
+      "screen": "Petrol",
+      "pdf": {
+        "silver": "Petrol",
+        "gold": "Petrol",
+        "platinum": "Petrol",
+        "ultimate": "Petrol"
+      }
+    },
+    "birthdate": {
+      "screen": "4/5/2000",
+      "pdf": {
+        "silver": "4/5/2000",
+        "gold": "4/5/2000",
+        "platinum": "4/5/2000",
+        "ultimate": "4/5/2000"
+      }
+    },
+    "occupation": {
+      "screen": "Employee",
+      "pdf": {
+        "silver": "Employee",
+        "gold": "Employee",
+        "platinum": "Employee",
+        "ultimate": "Employee"
+      }
+    },
+    "insurance": {
+      "screen": "Full Coverage",
+      "pdf": {
+        "silver": "Full Coverage",
+        "gold": "Full Coverage",
+        "platinum": "Full Coverage",
+        "ultimate": "Full Coverage"
+      }
+    },
+    "dateofmanufacture": {
+      "screen": "1/1/2020",
+      "pdf": {
+        "silver": "1/1/2020",
+        "gold": "1/1/2020",
+        "platinum": "1/1/2020",
+        "ultimate": "1/1/2020"
+      }
+    },
+    "seats": {
+      "screen": "4",
+      "pdf": {
+        "silver": "4",
+        "gold": "4",
+        "platinum": "4",
+        "ultimate": "4"
+      }
+    },
+    "annual mileage": {
+      "screen": "15000",
+      "pdf": {
+        "silver": "15000",
+        "gold": "15000",
+        "platinum": "15000",
+        "ultimate": "15000"
+      }
+    },
+    "insurancesum": {
+      "screen": "30000000",
+      "pdf": {
+        "silver": "30000000",
+        "gold": "30000000",
+        "platinum": "30000000",
+        "ultimate": "30000000"
+      }
+    },
+    "merit rating": {
+      "screen": "Bonus 1",
+      "pdf": {
+        "silver": "Bonus 1",
+        "gold": "Bonus 1",
+        "platinum": "Bonus 1",
+        "ultimate": "Bonus 1"
+      }
+    },
+    "legal defense insurance": {
+      "screen": "No",
+      "pdf": {
+        "silver": "",
+        "gold": "",
+        "platinum": "",
+        "ultimate": ""
+      }
+    },
+    "europrotection": {
+      "screen": "Yes",
+      "pdf": {
+        "silver": "Yes",
+        "gold": "Yes",
+        "platinum": "Yes",
+        "ultimate": "Yes"
+      }
+    },
+    "courtesycar": {
+      "screen": "No",
+      "pdf": {
+        "silver": "No",
+        "gold": "No",
+        "platinum": "No",
+        "ultimate": "No"
+      }
+    },
+    "prices": {
+      "screen": {
+        "silver": "240.00",
+        "gold": "707.00",
+        "platinum": "1,387.00",
+        "ultimate": "2,643.00"
+      },
+      "pdf": {
+        "silver": "240.00",
+        "gold": "707.00",
+        "platinum": "1,387.00",
+        "ultimate": "2,643.00"
+      }
+    }
+  },
+  {
+    "Test_ID": "18",
+    "make": {
+      "screen": "BMW",
+      "pdf": {
+        "silver": "BMW",
+        "gold": "BMW",
+        "platinum": "BMW",
+        "ultimate": "BMW"
+      }
+    },
+    "fueltype": {
+      "screen": "Petrol",
+      "pdf": {
+        "silver": "Petrol",
+        "gold": "Petrol",
+        "platinum": "Petrol",
+        "ultimate": "Petrol"
+      }
+    },
+    "birthdate": {
+      "screen": "4/5/2000",
+      "pdf": {
+        "silver": "4/5/2000",
+        "gold": "4/5/2000",
+        "platinum": "4/5/2000",
+        "ultimate": "4/5/2000"
+      }
+    },
+    "occupation": {
+      "screen": "Employee",
+      "pdf": {
+        "silver": "Employee",
+        "gold": "Employee",
+        "platinum": "Employee",
+        "ultimate": "Employee"
+      }
+    },
+    "insurance": {
+      "screen": "Full Coverage",
+      "pdf": {
+        "silver": "Full Coverage",
+        "gold": "Full Coverage",
+        "platinum": "Full Coverage",
+        "ultimate": "Full Coverage"
+      }
+    },
+    "dateofmanufacture": {
+      "screen": "1/1/2020",
+      "pdf": {
+        "silver": "1/1/2020",
+        "gold": "1/1/2020",
+        "platinum": "1/1/2020",
+        "ultimate": "1/1/2020"
+      }
+    },
+    "seats": {
+      "screen": "4",
+      "pdf": {
+        "silver": "4",
+        "gold": "4",
+        "platinum": "4",
+        "ultimate": "4"
+      }
+    },
+    "annual mileage": {
+      "screen": "15000",
+      "pdf": {
+        "silver": "15000",
+        "gold": "15000",
+        "platinum": "15000",
+        "ultimate": "15000"
+      }
+    },
+    "insurancesum": {
+      "screen": "35000000",
+      "pdf": {
+        "silver": "35000000",
+        "gold": "35000000",
+        "platinum": "35000000",
+        "ultimate": "35000000"
+      }
+    },
+    "merit rating": {
+      "screen": "Bonus 1",
+      "pdf": {
+        "silver": "Bonus 1",
+        "gold": "Bonus 1",
+        "platinum": "Bonus 1",
+        "ultimate": "Bonus 1"
+      }
+    },
+    "legal defense insurance": {
+      "screen": "No",
+      "pdf": {
+        "silver": "",
+        "gold": "",
+        "platinum": "",
+        "ultimate": ""
+      }
+    },
+    "europrotection": {
+      "screen": "Yes",
+      "pdf": {
+        "silver": "Yes",
+        "gold": "Yes",
+        "platinum": "Yes",
+        "ultimate": "Yes"
+      }
+    },
+    "courtesycar": {
+      "screen": "No",
+      "pdf": {
+        "silver": "No",
+        "gold": "No",
+        "platinum": "No",
+        "ultimate": "No"
+      }
+    },
+    "prices": {
+      "screen": {
+        "silver": "241.00",
+        "gold": "710.00",
+        "platinum": "1,393.00",
+        "ultimate": "2,655.00"
+      },
+      "pdf": {
+        "silver": "241.00",
+        "gold": "710.00",
+        "platinum": "1,393.00",
+        "ultimate": "2,655.00"
+      }
+    }
+  }
+]
