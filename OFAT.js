@@ -26,7 +26,7 @@ let mode = ''
     }
 
     try {
-      const data = fs.readFileSync('kW_InsuranceSum.txt')
+      const data = fs.readFileSync('OFAT.txt')
       const content = data.toString()
       const lines = content.trim().split('\n')
 
@@ -276,21 +276,21 @@ let mode = ''
           const download = await downloadPromise
 
           await download.saveAs(
-            'C:/code/Tricentis_Insurance/pdf_kW_Insurance/output-' +
+            'C:/code/Tricentis_Insurance/pdf_OFAT/output-' +
             Test_ID +
             '-' +
             option.name +
             '.pdf'
           )
           execSync(
-            'pdftotext C:/code/Tricentis_Insurance/pdf_kW_Insurance/output-' +
+            'pdftotext C:/code/Tricentis_Insurance/pdf_OFAT/output-' +
             Test_ID +
             '-' +
             option.name +
             '.pdf'
           )
           const pdfdata = fs.readFileSync(
-            'C:/code/Tricentis_Insurance/pdf_kW_Insurance/output-' +
+            'C:/code/Tricentis_Insurance/pdf_OFAT/output-' +
             Test_ID +
             '-' +
             option.name +
@@ -410,10 +410,10 @@ let mode = ''
           prices: prices
         })
 
-        await page.screenshot({ path: `kW_Insurance-${Test_ID}.png` })
+        await page.screenshot({ path: `OFAT-${Test_ID}.png` })
 
         fs.writeFileSync(
-          'kW_Insurance.json',
+          'OFAT.json',
           JSON.stringify(allprices, null, 2),
           err => {
             //converts the JS object allprices into a JSON string with two-space indentation
@@ -427,7 +427,7 @@ let mode = ''
        
       }
 
-      const jsonData = fs.readFileSync("kw_Insurance.json", "utf8");  //read the content into a variable
+      const jsonData = fs.readFileSync("OFAT.json", "utf8");  //read the content into a variable
       console.log(jsonData);
       const dataprices = JSON.parse(jsonData); //parse the json into an Object => a= allprices
 
